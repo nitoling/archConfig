@@ -1,0 +1,12 @@
+[05/11/18, 20:10:45:620] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/11/18, 20:10:45:621] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/11/18, 20:10:45:602      ║
+[05/11/18, 20:10:45:621] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/11/18, 20:10:45:915] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/11/18, 20:10:46:745] error: Calls failed to load, bailing
+[05/11/18, 20:10:46:749] info: cld3::loadModule: loading cld3 module
+[05/11/18, 20:10:46:785] info: cld3Loader::loadModule: running environment is NODE
+[05/11/18, 20:10:46:785] info: cld3Loader::loadModule: constructed module object for runtime
+[05/11/18, 20:10:47:391] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/11/18, 20:10:47:391] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/11/18, 20:10:47:398] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/11/18, 20:10:47:407] info: SSBIntegration: Main window preload script loaded 2506.527184

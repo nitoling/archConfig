@@ -1,0 +1,231 @@
+[05/08/18, 11:16:12:801] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/08/18, 11:16:12:802] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/08/18, 11:16:12:793      ║
+[05/08/18, 11:16:12:802] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/08/18, 11:16:13:448] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/08/18, 11:16:13:799] info: NetworkStatus: Waiting for network online…
+[05/08/18, 11:16:14:685] info: TranslationLookup: locale set to ja-JP for renderer
+[05/08/18, 11:16:15:214] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:15:232] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:15:238] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:15:244] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:15:260] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:15:263] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:15:269] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:15:275] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:15:278] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:15:294] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 11:16:15:369] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 11:16:15:378] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 11:16:15:381] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 11:16:15:394] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 11:16:15:397] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 11:16:15:427] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:428] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[05/08/18, 11:16:15:447] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:448] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:449] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:453] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:15:468] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:15:473] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:15:491] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:494] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 11:16:15:517] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:15:521] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 11:16:15:832] info: Store: SET_NETWORK_STATUS offline
+[05/08/18, 11:16:16:965] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:16:991] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:17:078] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:17:089] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:17:093] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:17:114] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:17:126] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:17:148] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 11:16:17:166] info: Store: QUIT_APP
+[05/08/18, 11:16:17:206] info: Store: REMOVE_WINDOW 2
+[05/08/18, 11:16:17:230] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/08/18, 11:16:17:233] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 11:16:17:239] info: Store: QUIT_APP

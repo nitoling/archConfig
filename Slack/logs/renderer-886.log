@@ -1,0 +1,362 @@
+[05/01/18, 15:15:12:934] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 15:15:12:935] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 15:15:12:930      ║
+[05/01/18, 15:15:12:935] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 15:15:13:754] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 15:15:15:526] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:15:539] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:15:542] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:15:545] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:15:547] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:15:550] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:15:552] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:15:554] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:15:556] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:15:599] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:15:15:609] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:15:15:916] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/01/18, 15:15:16:039] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:16:092] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:16:097] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:16:327] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:15:16:334] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[05/01/18, 15:15:16:345] info: Store: MAIN_WINDOW_SHOWN
+[05/01/18, 15:15:24:295] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:25:028] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:25:400] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:27:269] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:27:297] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:27:353] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:27:912] info: Store: SELECT_CHANNEL C8Y1H7TEE
+[05/01/18, 15:15:27:918] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:27:928] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/01/18, 15:15:27:936] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5YEC6G73",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:28:340] info: Store: SELECT_CHANNEL C04Q8GKJA
+[05/01/18, 15:15:28:344] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:28:351] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T02R0MMHK",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:29:933] info: Store: SELECT_CHANNEL C4JRHEQB1
+[05/01/18, 15:15:29:942] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:29:960] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T4HEMM0UR",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:30:654] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_original.png"
+  },
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:744] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:756] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:897] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5YEC6G73",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:15:33:675] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_original.jpg"
+  },
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:814] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:828] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:899] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T02R0MMHK",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:15:35:960] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_original.png"
+  },
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:233] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:244] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:327] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T4HEMM0UR",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:16:26:546] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:16:26:922] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:17:03:665] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:17:18:719] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/01/18, 15:17:19:127] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:17:19:134] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[05/01/18, 15:17:41:177] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:17:55:818] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:18:00:975] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/01/18, 15:18:01:382] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:18:01:391] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[05/01/18, 15:18:32:929] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:18:33:302] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:19:10:078] info: NetworkStatus: Waiting for network online…
+[05/01/18, 15:19:15:180] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/01/18, 15:19:15:588] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:19:15:594] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[05/01/18, 16:44:32:575] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 16:44:32:592] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 16:44:32:559      ║
+[05/01/18, 16:44:32:594] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 16:44:32:924] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 16:44:33:769] error: Calls failed to load, bailing
+[05/01/18, 16:44:33:772] info: cld3::loadModule: loading cld3 module
+[05/01/18, 16:44:33:810] info: cld3Loader::loadModule: running environment is NODE
+[05/01/18, 16:44:33:810] info: cld3Loader::loadModule: constructed module object for runtime
+[05/01/18, 16:44:34:781] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/01/18, 16:44:34:782] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/01/18, 16:44:34:798] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/01/18, 16:44:34:799] info: SSBIntegration: Main window preload script loaded 3105.083261
+[05/01/18, 16:44:34:827] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 16:44:34:829] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 16:44:34:841] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 16:44:34:855] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 16:44:34:883] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 16:44:34:897] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 16:44:34:923] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 16:44:34:942] info: Window is unloading, winssb is no longer accessible
+[05/01/18, 16:44:34:956] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 16:44:34:968] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}

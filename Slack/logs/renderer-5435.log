@@ -1,0 +1,75 @@
+[05/08/18, 20:46:12:332] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/08/18, 20:46:12:333] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/08/18, 20:46:12:328      ║
+[05/08/18, 20:46:12:333] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/08/18, 20:46:12:487] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/08/18, 20:46:13:051] error: Calls failed to load, bailing
+[05/08/18, 20:46:13:054] info: cld3::loadModule: loading cld3 module
+[05/08/18, 20:46:13:112] info: cld3Loader::loadModule: running environment is NODE
+[05/08/18, 20:46:13:112] info: cld3Loader::loadModule: constructed module object for runtime
+[05/08/18, 20:46:13:600] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/08/18, 20:46:13:601] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/08/18, 20:46:13:608] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/08/18, 20:46:13:609] info: SSBIntegration: Main window preload script loaded 1898.543064
+[05/08/18, 20:46:22:284] info: Store: SELECT_CHANNEL C8Y1H7TEE
+[05/08/18, 20:46:22:290] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[05/08/18, 20:46:22:290] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/08/18, 20:46:25:075] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 20:46:25:188] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 20:46:25:192] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[05/08/18, 20:46:25:202] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 20:46:25:208] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5YEC6G73",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/08/18, 20:46:31:283] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5YEC6G73",
+  "token": "xoxs-⋯"
+}
+[05/08/18, 20:46:31:284] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_original.png"
+  },
+  "teamId": "T5YEC6G73"
+}

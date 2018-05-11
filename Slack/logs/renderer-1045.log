@@ -1,0 +1,325 @@
+[04/24/18, 15:23:02:885] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[04/24/18, 15:23:02:886] info: ║      Slack 3.1.1, linux 4.16.3-1-zen on x64 at 04/24/18, 15:23:02:880      ║
+[04/24/18, 15:23:02:886] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[04/24/18, 15:23:03:029] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[04/24/18, 15:23:03:523] error: Calls failed to load, bailing
+[04/24/18, 15:23:03:525] info: cld3::loadModule: loading cld3 module
+[04/24/18, 15:23:03:555] info: cld3Loader::loadModule: running environment is NODE
+[04/24/18, 15:23:03:555] info: cld3Loader::loadModule: constructed module object for runtime
+[04/24/18, 15:23:04:096] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/24/18, 15:23:04:097] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/24/18, 15:23:04:105] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/24/18, 15:23:04:106] info: SSBIntegration: Main window preload script loaded 1917.594246
+[04/24/18, 15:23:04:119] info: Store: SET_NETWORK_STATUS offline
+[04/24/18, 15:23:04:121] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:23:04:121] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:04:122] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:04:129] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:04:142] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:04:147] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:04:163] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:04:231] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:23:04:244] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:23:04:966] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:04:972] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:04:974] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:23:08:370] info: Store: SET_NETWORK_STATUS online
+[04/24/18, 15:23:08:379] info: Store: MAIN_WINDOW_SHOWN
+[04/24/18, 15:23:08:415] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:08:425] info: Window is unloading, winssb is no longer accessible
+[04/24/18, 15:23:08:429] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:08:446] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:23:09:675] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[04/24/18, 15:23:09:691] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[04/24/18, 15:23:09:699] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:18:476] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 15:15:18:477] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 15:15:18:472      ║
+[05/01/18, 15:15:18:477] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 15:15:18:600] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 15:15:19:080] error: Calls failed to load, bailing
+[05/01/18, 15:15:19:095] info: cld3::loadModule: loading cld3 module
+[05/01/18, 15:15:19:161] info: cld3Loader::loadModule: running environment is NODE
+[05/01/18, 15:15:19:161] info: cld3Loader::loadModule: constructed module object for runtime
+[05/01/18, 15:15:19:913] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/01/18, 15:15:19:914] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/01/18, 15:15:19:935] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/01/18, 15:15:19:937] info: SSBIntegration: Main window preload script loaded 1969.653205
+[05/01/18, 15:15:24:862] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:25:031] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:25:401] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:27:269] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:27:296] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:27:353] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:28:608] info: Store: SELECT_CHANNEL C8Y1H7TEE
+[05/01/18, 15:15:28:608] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:28:608] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/01/18, 15:15:28:609] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5YEC6G73",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:28:610] info: Store: SELECT_CHANNEL C04Q8GKJA
+[05/01/18, 15:15:28:610] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:28:610] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T02R0MMHK",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:29:933] info: Store: SELECT_CHANNEL C4JRHEQB1
+[05/01/18, 15:15:29:941] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:29:959] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T4HEMM0UR",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:15:30:654] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_original.png"
+  },
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:744] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:755] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:15:30:899] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5YEC6G73",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:15:33:895] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_original.jpg"
+  },
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:895] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:896] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:15:33:907] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T02R0MMHK",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:15:35:960] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_original.png"
+  },
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:232] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:244] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:15:36:330] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T4HEMM0UR",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:16:26:515] error: May-1 15:16:26.514 T02R0MMHK SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:16:26:919] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:16:56:534] error: May-1 15:16:56.533 T02R0MMHK SOCKET-MANAGER: Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/01/18, 15:17:19:127] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:17:40:783] error: May-1 15:17:40.783 T02R0MMHK SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:17:41:175] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:18:01:381] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:18:32:919] error: May-1 15:18:32.918 T02R0MMHK SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:18:33:300] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:19:08:698] error: May-1 15:19:08.698 T02R0MMHK SOCKET-MANAGER: Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/01/18, 15:19:15:585] info: Store: SET_NETWORK_STATUS online

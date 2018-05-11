@@ -1,0 +1,76 @@
+[05/01/18, 17:59:06:127] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 17:59:06:128] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 17:59:06:114      ║
+[05/01/18, 17:59:06:128] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 17:59:06:485] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 17:59:07:854] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 17:59:07:938] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 17:59:08:049] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 17:59:08:873] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 17:59:08:906] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 17:59:08:957] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 17:59:09:053] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 17:59:09:076] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 17:59:09:091] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 17:59:09:487] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 17:59:09:908] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 17:59:09:936] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 17:59:09:938] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 17:59:10:175] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 17:59:10:200] info: Store: MAIN_WINDOW_SHOWN

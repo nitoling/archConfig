@@ -1,0 +1,77 @@
+[05/05/18, 11:14:08:973] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/05/18, 11:14:08:977] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/05/18, 11:14:08:949      ║
+[05/05/18, 11:14:08:977] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/05/18, 11:14:09:451] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/05/18, 11:14:09:545] info: TranslationLookup: locale set to ja-JP for renderer
+[05/05/18, 11:14:11:298] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:339] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:341] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:344] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/05/18, 11:14:11:345] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/05/18, 11:14:11:346] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/05/18, 11:14:11:347] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/05/18, 11:14:11:347] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/05/18, 11:14:11:348] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/05/18, 11:14:11:348] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/05/18, 11:14:11:363] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/05/18, 11:14:11:363] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}

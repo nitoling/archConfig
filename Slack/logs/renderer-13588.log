@@ -1,0 +1,123 @@
+[05/09/18, 00:41:39:503] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/09/18, 00:41:39:515] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/09/18, 00:41:39:495      ║
+[05/09/18, 00:41:39:515] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/09/18, 00:41:39:915] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/09/18, 00:41:39:957] info: TranslationLookup: locale set to ja-JP for renderer
+[05/09/18, 00:41:41:414] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 00:41:41:438] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 00:41:41:458] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 00:41:41:484] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 00:41:41:491] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 00:41:41:505] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 00:41:41:517] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 00:41:41:538] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 00:41:41:555] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 00:41:41:596] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 00:41:41:663] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 00:41:41:670] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 00:41:41:757] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 00:41:41:774] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 00:41:41:780] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 00:41:41:945] info: Store: SET_NETWORK_STATUS offline
+[05/09/18, 00:41:42:310] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 00:41:42:331] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 00:41:42:333] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 00:41:42:335] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 00:41:42:337] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 00:41:42:611] info: Store: SET_NETWORK_STATUS online
+[05/09/18, 00:41:42:630] info: Store: MAIN_WINDOW_SHOWN

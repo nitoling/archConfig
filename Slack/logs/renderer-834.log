@@ -1,0 +1,278 @@
+[05/08/18, 13:40:15:242] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/08/18, 13:40:15:243] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/08/18, 13:40:15:234      ║
+[05/08/18, 13:40:15:243] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/08/18, 13:40:15:438] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/08/18, 13:40:16:162] error: Calls failed to load, bailing
+[05/08/18, 13:40:16:164] info: cld3::loadModule: loading cld3 module
+[05/08/18, 13:40:16:194] info: cld3Loader::loadModule: running environment is NODE
+[05/08/18, 13:40:16:195] info: cld3Loader::loadModule: constructed module object for runtime
+[05/08/18, 13:40:16:702] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/08/18, 13:40:16:702] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/08/18, 13:40:16:707] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/08/18, 13:40:16:707] info: TranslationLookup: locale set to ja-JP for renderer
+[05/08/18, 13:40:16:708] info: SSBIntegration: Main window preload script loaded 2437.072078
+[05/08/18, 13:40:16:725] info: Store: SET_NETWORK_STATUS online
+[05/08/18, 13:40:16:729] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 13:40:16:730] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 13:40:16:730] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 13:40:16:731] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 13:40:16:740] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 13:40:16:745] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 13:40:16:746] info: Window is unloading, winssb is no longer accessible
+[05/08/18, 13:40:16:751] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 13:40:16:765] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 13:40:16:770] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 13:40:16:805] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 13:40:16:809] info: Store: MAIN_WINDOW_SHOWN
+[05/08/18, 13:40:16:839] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 13:40:16:850] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/08/18, 13:40:16:886] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/08/18, 13:40:17:047] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/08/18, 13:40:17:070] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/08/18, 13:40:17:155] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/10/18, 15:04:24:008] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/10/18, 15:04:24:009] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/10/18, 15:04:24:003      ║
+[05/10/18, 15:04:24:009] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/10/18, 15:04:24:713] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/10/18, 15:04:25:128] info: NetworkStatus: Waiting for network online…
+[05/10/18, 15:04:26:646] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/10/18, 15:04:26:660] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/10/18, 15:04:26:665] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/10/18, 15:04:26:668] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/10/18, 15:04:26:674] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/10/18, 15:04:26:677] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/10/18, 15:04:26:681] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/10/18, 15:04:26:684] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/10/18, 15:04:26:695] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/10/18, 15:04:26:698] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/10/18, 15:04:26:700] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/10/18, 15:04:26:706] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/10/18, 15:04:26:709] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/10/18, 15:04:26:713] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/10/18, 15:04:26:717] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/10/18, 15:04:26:734] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:735] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[05/10/18, 15:04:26:776] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:784] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[05/10/18, 15:04:26:807] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:815] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T0GFBAM8C"
+}
+[05/10/18, 15:04:26:827] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:834] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/10/18, 15:04:26:846] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:850] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[05/10/18, 15:04:26:851] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[05/10/18, 15:04:26:861] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5LFW0CUB"
+}
+[05/10/18, 15:04:27:151] info: Store: SET_NETWORK_STATUS offline
+[05/10/18, 15:04:28:703] info: Store: QUIT_APP
+[05/10/18, 15:04:28:731] info: Store: REMOVE_WINDOW 2
+[05/10/18, 15:04:28:765] info: Store: QUIT_APP

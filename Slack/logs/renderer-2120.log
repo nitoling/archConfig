@@ -1,0 +1,142 @@
+[05/07/18, 21:07:27:355] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/07/18, 21:07:27:363] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/07/18, 21:07:27:350      ║
+[05/07/18, 21:07:27:363] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/07/18, 21:07:27:492] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/07/18, 21:07:28:200] error: Calls failed to load, bailing
+[05/07/18, 21:07:28:202] info: cld3::loadModule: loading cld3 module
+[05/07/18, 21:07:28:276] info: cld3Loader::loadModule: running environment is NODE
+[05/07/18, 21:07:28:277] info: cld3Loader::loadModule: constructed module object for runtime
+[05/07/18, 21:07:28:841] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/07/18, 21:07:28:842] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/07/18, 21:07:28:858] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/07/18, 21:07:28:859] info: SSBIntegration: Main window preload script loaded 2007.337286
+[05/07/18, 21:07:28:875] info: Store: SET_NETWORK_STATUS online
+[05/07/18, 21:07:28:877] info: Store: MAIN_WINDOW_SHOWN
+[05/07/18, 21:07:28:878] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    12,
+    44
+  ],
+  "size": [
+    1896,
+    1024
+  ]
+}
+[05/07/18, 21:07:28:879] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:07:28:879] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:07:28:880] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:07:28:880] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:07:28:881] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:07:28:883] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:07:28:892] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:07:28:898] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:07:28:901] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:07:28:904] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:07:28:919] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:07:28:930] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:07:28:936] info: Window is unloading, winssb is no longer accessible
+[05/07/18, 21:07:29:016] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:07:29:028] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:07:29:032] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:07:29:089] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:07:29:233] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:07:29:274] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:07:29:318] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:07:29:360] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}

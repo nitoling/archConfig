@@ -1,0 +1,145 @@
+[05/01/18, 22:37:36:361] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 22:37:36:362] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 22:37:36:343      ║
+[05/01/18, 22:37:36:362] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 22:37:36:508] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 22:37:37:051] error: Calls failed to load, bailing
+[05/01/18, 22:37:37:053] info: cld3::loadModule: loading cld3 module
+[05/01/18, 22:37:37:085] info: cld3Loader::loadModule: running environment is NODE
+[05/01/18, 22:37:37:085] info: cld3Loader::loadModule: constructed module object for runtime
+[05/01/18, 22:37:37:709] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/01/18, 22:37:37:709] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/01/18, 22:37:37:725] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/01/18, 22:37:37:726] info: SSBIntegration: Main window preload script loaded 1979.792797
+[05/01/18, 22:37:37:737] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:37:739] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:37:740] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:37:747] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 22:37:37:748] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:37:748] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:37:749] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:37:757] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:37:769] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:38:400] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:38:443] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:38:521] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:38:558] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:38:581] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:38:721] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:38:921] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:42:052] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 22:37:42:065] info: Store: MAIN_WINDOW_SHOWN
+[05/01/18, 22:37:42:097] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:42:112] info: Window is unloading, winssb is no longer accessible
+[05/01/18, 22:37:42:118] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:42:131] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:42:414] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 22:37:42:429] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 22:37:42:446] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 22:37:43:117] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    10,
+    42
+  ],
+  "size": [
+    1900,
+    1002
+  ]
+}

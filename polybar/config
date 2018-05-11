@@ -1,0 +1,256 @@
+[colors]
+background = #00303030
+background-alt = #444
+foreground = #dfdfdf
+foreground-alt = #777
+primary = #ffb52a
+secondary = #e60053
+alert = #bd2c40
+accent = #4DD0E1
+
+[bar/top]
+width = 100%
+height = 30
+radius = 0
+fixed-center = false
+
+monitor = ${env:MONITOR:}
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 4
+line-color = #f00
+
+border-size = 1
+border-color = #00000000
+
+padding-left = 1
+padding-right = 3
+
+module-margin-left = 0
+module-margin-right = 1
+
+font-0 = Noto Sans:size=12
+font-1 = FontAwesome:size=12
+font-2 = Noto Sans Symbols2:size=12
+
+modules-left = bspwm
+modules-center = 
+modules-right = cpu memory wlan eth volume battery temperature date
+
+tray-position = right
+tray-padding = 0
+
+cursor-click = pointer
+cursor-scroll = ns-resize
+
+enable-ipc = true
+
+; 
+; bspwm
+;
+
+[module/bspwm]
+type = internal/bspwm
+format = <label-state> <label-mode>
+fuzzy-match = true
+
+ws-icon-0 = terminal;
+ws-icon-1 = browser;
+ws-icon-2 = editor;
+ws-icon-3 = slack;
+ws-icon-default = 
+
+label-focused = %icon%
+label-focused-foreground = ${colors.accent}
+label-focused-padding = 2
+
+label-occupied = %icon%
+label-occupied-foreground = ${colors.foreground-alt}
+label-occupied-padding = 2
+
+label-urgent = %icon%!
+label-urgent-foreground = ${colors.alert}
+label-urgent-padding = 2
+
+label-empty = 
+
+; 
+; Modules
+;
+
+[module/cpu]
+type = internal/cpu
+interval = 1
+format-prefix = "  "
+format-prefix-foreground = ${colors.foreground}
+label = %percentage% %
+
+[module/memory]
+type = internal/memory
+interval = 1
+format-prefix = "  "
+format-prefix-foreground = ${colors.foreground}
+label = %gb_used%
+
+[module/wlan]
+type = internal/network
+interface = wlan0
+interval = 1
+
+format-connected = <label-connected>
+format-connected-prefix = "  "
+format-connected-foreground = ${colors.accent}
+label-connected = %essid% : %local_ip%
+
+format-disconnected = <label-disconnected>
+format-disconnected-prefix = "  "
+format-disconnected-foreground = ${colors.foreground-alt}
+label-disconnected = %ifname%
+
+ramp-signal-foreground = ${colors.foreground}
+
+[module/eth]
+type = internal/network
+interface = eth0
+interval = 1
+
+format-connected-prefix = " "
+format-connected-prefix-foreground = ${colors.accent}
+label-connected-foreground = ${colors.accent}
+label-connected = %local_ip%
+
+format-disconnected = <label-disconnected>
+format-disconnected-prefix = " "
+format-disconnected-prefix-foreground = ${colors.foreground-alt}
+label-disconnected = %ifname%
+label-disconnected-foreground = ${colors.foreground-alt}
+
+[module/date]
+type = internal/date
+interval = 1
+
+date = " %y/%m/%d"
+
+#time = %H:%M
+time = %H:%M:%S
+
+format-prefix = "  "
+format-prefix-foreground = ${colors.foreground}
+
+label = %date% %time%
+
+[module/volume]
+type = internal/volume
+
+format-volume-foreground = ${colors.foreground}
+format-muted-foreground = ${colors.foreground-alt}
+
+; Available tags:
+;   <label-volume> (default)
+;   <ramp-volume>
+;   <bar-volume>
+format-volume = <ramp-volume> <bar-volume>
+
+; Available tags:
+;   <label-muted> (default)
+;   <ramp-volume>
+;   <bar-volume>
+format-muted = <label-muted> <bar-volume>
+
+; Available tokens:
+;   %percentage% (default)
+;label-volume = %percentage%%
+
+; Available tokens:
+;   %percentage% (default)
+label-muted = 🔇
+# label-muted-foreground = #ff0000
+
+; Only applies if <ramp-volume> is used
+ramp-volume-0 = 🔈
+ramp-volume-1 = 🔉
+ramp-volume-2 = 🔊
+
+; If defined, it will replace <ramp-volume> when
+; headphones are plugged in to `headphone_control_numid`
+; If undefined, <ramp-volume> will be used for both
+; Only applies if <ramp-volume> is used
+;ramp-headphones-0 = 
+
+bar-volume-width = 10
+bar-volume-foreground-0 = ${colors.accent}
+bar-volume-gradient = true
+bar-volume-indicator = |
+bar-volume-indicator-font = 2
+bar-volume-indicator-foreground = ${colors.accent}
+bar-volume-fill = ― 
+bar-volume-fill-font = 2
+bar-volume-empty = ―
+bar-volume-empty-font = 2
+bar-volume-empty-foreground = ${colors.foreground-alt}
+
+
+[module/battery]
+type = internal/battery
+battery = BAT0
+adapter = AC
+full-at = 97
+
+format-charging = <animation-charging> <label-charging>
+
+format-discharging = <ramp-capacity> <label-discharging>
+format-discharging-foreground = ${colors.accent}
+
+format-full-prefix = "  "
+format-full-prefix-foreground = ${colors.foreground}
+
+ramp-capacity-0 = "  " 
+ramp-capacity-1 = "  " 
+ramp-capacity-2 = "  "
+ramp-capacity-3 = "  " 
+ramp-capacity-4 = "  "
+ramp-capacity-foreground = ${colors.foreground}
+
+
+animation-charging-0 = "  "
+animation-charging-1 = "  "
+animation-charging-2 = "  "
+animation-charging-3 = "  "
+animation-charging-4 = "  "
+animation-charging-foreground = ${colors.foreground}
+animation-charging-framerate = 750
+
+[module/temperature]
+type = internal/temperature
+thermal-zone = 0
+warn-temperature = 80
+
+format = <ramp> <label>
+format-warn = <ramp> <label-warn>
+format-warn-foreground = ${colors.alert}
+
+label = %temperature%
+label-warn = %temperature%
+label-warn-foreground = ${colors.alert}
+
+ramp-0 = "  "
+ramp-1 = "  "
+ramp-2 = "  "
+ramp-3 = "  "
+ramp-4 = "  "
+ramp-foreground = ${colors.foreground}
+
+[settings]
+screenchange-reload = true
+;compositing-background = xor
+;compositing-background = screen
+;compositing-foreground = source
+;compositing-border = over
+
+[global/wm]
+margin-top = 0
+margin-bottom = 0
+
+; vim:ft=dosini

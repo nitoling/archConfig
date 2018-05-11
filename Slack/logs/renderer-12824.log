@@ -1,0 +1,55 @@
+[05/03/18, 02:26:45:465] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/03/18, 02:26:45:466] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/03/18, 02:26:45:461      ║
+[05/03/18, 02:26:45:466] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/03/18, 02:26:45:879] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/03/18, 02:26:46:952] error: Calls failed to load, bailing
+[05/03/18, 02:26:46:963] info: cld3::loadModule: loading cld3 module
+[05/03/18, 02:26:47:035] info: cld3Loader::loadModule: running environment is NODE
+[05/03/18, 02:26:47:036] info: cld3Loader::loadModule: constructed module object for runtime
+[05/03/18, 02:26:48:271] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/03/18, 02:26:48:272] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/03/18, 02:26:48:305] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/03/18, 02:26:48:306] info: SSBIntegration: Main window preload script loaded 3802.306252
+[05/03/18, 02:26:48:343] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/03/18, 02:26:48:411] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/03/18, 02:26:48:429] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/03/18, 02:26:48:437] info: Window is unloading, winssb is no longer accessible
+[05/03/18, 02:26:50:145] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/03/18, 02:26:50:215] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/03/18, 02:26:50:249] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/03/18, 02:26:50:333] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}

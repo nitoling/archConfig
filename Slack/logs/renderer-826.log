@@ -1,0 +1,181 @@
+[04/25/18, 02:09:08:990] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[04/25/18, 02:09:08:991] info: ║      Slack 3.1.1, linux 4.16.3-1-zen on x64 at 04/25/18, 02:09:08:976      ║
+[04/25/18, 02:09:08:991] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[04/25/18, 02:09:09:187] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[04/25/18, 02:09:10:291] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[04/25/18, 02:09:10:353] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[04/25/18, 02:09:10:363] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[04/25/18, 02:09:10:553] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/25/18, 02:09:10:582] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[04/25/18, 02:09:10:595] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[04/25/18, 02:09:10:743] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[04/25/18, 02:09:10:787] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[04/25/18, 02:09:10:793] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[04/25/18, 02:09:11:041] info: Store: SET_NETWORK_STATUS offline
+[04/25/18, 02:09:11:401] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[04/25/18, 02:09:11:416] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[04/25/18, 02:09:11:427] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[04/25/18, 02:09:11:724] info: Store: SET_NETWORK_STATUS online
+[04/25/18, 02:09:11:740] info: Store: MAIN_WINDOW_SHOWN
+[05/02/18, 11:09:25:704] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/02/18, 11:09:25:705] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/02/18, 11:09:25:692      ║
+[05/02/18, 11:09:25:705] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/02/18, 11:09:25:959] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/02/18, 11:09:26:906] error: Calls failed to load, bailing
+[05/02/18, 11:09:26:908] info: cld3::loadModule: loading cld3 module
+[05/02/18, 11:09:26:963] info: cld3Loader::loadModule: running environment is NODE
+[05/02/18, 11:09:26:963] info: cld3Loader::loadModule: constructed module object for runtime
+[05/02/18, 11:09:27:784] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/02/18, 11:09:27:784] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/02/18, 11:09:27:819] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/02/18, 11:09:27:837] info: SSBIntegration: Main window preload script loaded 2911.92375
+[05/02/18, 11:09:27:895] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/02/18, 11:09:27:914] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/02/18, 11:09:27:915] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/02/18, 11:09:27:930] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/02/18, 11:09:27:935] info: Window is unloading, winssb is no longer accessible
+[05/02/18, 11:09:27:950] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/02/18, 11:09:27:981] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/05/18, 11:14:08:356] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/05/18, 11:14:08:357] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/05/18, 11:14:08:345      ║
+[05/05/18, 11:14:08:357] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/05/18, 11:14:08:878] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/05/18, 11:14:09:971] error: Calls failed to load, bailing
+[05/05/18, 11:14:09:974] info: cld3::loadModule: loading cld3 module
+[05/05/18, 11:14:10:034] info: cld3Loader::loadModule: running environment is NODE
+[05/05/18, 11:14:10:034] info: cld3Loader::loadModule: constructed module object for runtime
+[05/05/18, 11:14:10:916] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/05/18, 11:14:10:916] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/05/18, 11:14:10:939] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/05/18, 11:14:10:939] info: TranslationLookup: locale set to ja-JP for renderer
+[05/05/18, 11:14:10:940] info: SSBIntegration: Main window preload script loaded 3933.862294
+[05/05/18, 11:14:10:980] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:027] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:038] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/05/18, 11:14:11:054] info: Window is unloading, winssb is no longer accessible
+[05/05/18, 11:14:11:077] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/05/18, 11:14:11:135] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/05/18, 11:14:11:138] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/05/18, 11:14:11:154] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}

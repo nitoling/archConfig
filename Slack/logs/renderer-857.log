@@ -1,0 +1,6635 @@
+[04/26/18, 16:46:18:076] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[04/26/18, 16:46:18:077] info: ║      Slack 3.1.1, linux 4.16.3-1-zen on x64 at 04/26/18, 16:46:18:060      ║
+[04/26/18, 16:46:18:077] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[04/26/18, 16:46:18:914] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[04/26/18, 16:46:21:286] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:21:319] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:21:331] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:21:337] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:21:349] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:21:351] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:21:434] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:21:436] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:21:439] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:21:459] info: Store: SET_NETWORK_STATUS offline
+[04/26/18, 16:46:21:643] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:21:644] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:21:767] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:21:773] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:21:777] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:21:793] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:23:353] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:23:368] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:23:442] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:23:455] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:23:465] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:23:467] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[04/26/18, 16:46:23:554] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:23:560] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[04/26/18, 16:46:23:671] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:23:684] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:46:23:778] warn: Tried to determine signed in status, but errored.
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:46:23:779] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[04/26/18, 16:52:37:553] info: NetworkStatus: Waiting for network online…
+[04/26/18, 16:52:37:581] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:52:37:582] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:52:42:568] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:52:42:568] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:52:47:569] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:52:47:569] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:52:52:571] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:52:52:572] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:52:57:571] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:52:57:572] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:02:571] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:02:572] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:07:572] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:07:573] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:12:574] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:12:574] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:17:575] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:17:575] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:22:576] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:22:577] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:27:577] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:27:578] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:32:574] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:32:574] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:37:581] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:37:582] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:42:459] info: NetworkStatus: Waiting for network online…
+[04/26/18, 16:53:42:481] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:42:481] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:47:478] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:47:479] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:52:476] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:52:476] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:53:57:475] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:53:57:476] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:02:478] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:02:478] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:07:480] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:07:480] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:12:480] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:12:481] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:17:484] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:17:487] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:22:481] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:22:481] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:27:486] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:27:487] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:32:480] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:32:480] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:37:486] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:37:487] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:42:489] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:42:489] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:47:490] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:47:491] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:52:492] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:52:492] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:54:57:491] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:54:57:492] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:02:494] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:02:494] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:07:495] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:07:496] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:12:503] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:12:503] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:17:496] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:17:497] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:22:496] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:22:497] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:27:498] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:27:499] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:32:499] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:32:499] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:37:505] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:37:506] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:42:501] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:42:501] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:47:496] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:47:496] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:52:504] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:52:504] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:55:57:498] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:55:57:499] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:02:505] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:02:505] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:07:506] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:07:507] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:12:504] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:12:504] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:17:510] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:17:510] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:22:510] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:22:510] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:27:511] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:27:512] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:32:506] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:32:506] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:37:513] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:37:514] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:42:515] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:42:515] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:47:517] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:47:518] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:52:517] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:52:518] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:56:57:519] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:56:57:520] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:02:520] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:02:520] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:07:522] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:07:523] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:12:531] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:12:532] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:17:523] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:17:523] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:22:523] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:22:524] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:27:525] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:27:526] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:32:533] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:32:534] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:37:527] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:37:528] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:42:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:42:529] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:47:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:47:530] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:52:532] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:52:533] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:57:57:531] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:57:57:532] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:02:530] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:02:531] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:07:529] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:07:530] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:12:533] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:12:534] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:17:533] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:17:533] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:22:536] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:22:536] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:27:537] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:27:537] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:32:537] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:32:537] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:37:538] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:37:539] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:42:539] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:42:540] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:47:543] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:47:544] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:52:542] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:52:543] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:58:57:538] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:58:57:538] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:02:544] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:02:547] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:07:546] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:07:547] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:12:555] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:12:555] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:17:549] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:17:550] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:22:552] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:22:552] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:27:552] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:27:553] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:32:554] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:32:555] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:37:557] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:37:558] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:42:557] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:42:557] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:47:560] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:47:561] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:52:561] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:52:562] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 16:59:57:564] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 16:59:57:565] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:02:564] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:02:565] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:07:565] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:07:566] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:12:572] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:12:573] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:17:568] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:17:568] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:22:569] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:22:569] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:27:569] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:27:570] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:32:571] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:32:571] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:37:572] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:37:572] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:42:574] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:42:575] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:47:574] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:47:574] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:52:577] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:52:578] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:00:57:576] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:00:57:577] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:02:577] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:02:578] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:07:578] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:07:579] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:12:579] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:12:580] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:17:581] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:17:582] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:22:582] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:22:583] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:27:583] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:27:583] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:32:582] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:32:582] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:37:583] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:37:583] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:42:583] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:42:584] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:47:585] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:47:586] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:52:588] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:52:589] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:01:57:587] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:01:57:588] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:02:596] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:02:597] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:07:592] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:07:592] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:12:593] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:12:594] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:17:594] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:17:594] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:22:595] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:22:595] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:27:596] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:27:597] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:32:598] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:32:600] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:37:598] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:37:598] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:42:599] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:42:599] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:47:607] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:47:608] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:52:602] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:52:603] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:02:57:603] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:02:57:604] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:02:612] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:02:613] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:07:605] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:07:606] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:12:608] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:12:608] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:17:607] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:17:608] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:22:608] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:22:609] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:27:609] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:27:610] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:32:611] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:32:612] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:37:612] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:37:613] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:42:619] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:42:620] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:47:614] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:47:615] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:52:614] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:52:615] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:03:57:616] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:03:57:617] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:02:617] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:02:617] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:07:617] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:07:617] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:12:619] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:12:620] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:17:621] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:17:621] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:22:622] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:22:623] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:27:622] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:27:623] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:32:625] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:32:625] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:37:625] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:37:626] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:42:625] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:42:626] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:47:627] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:47:627] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:52:630] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:52:631] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:04:57:631] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:04:57:632] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:02:632] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:02:633] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:07:631] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:07:633] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:12:635] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:12:637] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:17:635] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:17:636] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:22:639] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:22:640] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:27:644] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:27:645] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:32:638] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:32:639] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:37:638] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:37:639] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:42:643] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:42:643] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:47:640] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:47:641] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:52:646] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:52:647] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:05:57:639] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:05:57:639] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:02:646] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:02:648] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:07:644] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:07:645] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:12:646] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:12:646] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:17:646] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:17:647] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:22:647] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:22:647] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:27:649] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:27:650] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:32:651] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:32:652] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:37:652] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:37:653] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:42:656] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:42:657] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:47:654] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:47:655] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:52:655] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:52:656] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:06:57:656] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:06:57:657] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:02:658] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:02:658] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:07:659] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:07:659] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:12:660] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:12:661] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:17:657] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:17:657] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:22:661] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:22:662] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:27:660] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:27:661] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:32:662] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:32:662] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:37:662] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:37:663] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:42:665] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:42:665] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:47:666] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:47:666] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:52:669] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:52:669] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:07:57:663] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:07:57:663] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:02:668] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:02:668] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:07:669] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:07:669] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:12:671] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:12:671] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:17:675] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:17:676] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:22:673] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:22:674] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:27:675] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:27:676] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:32:676] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:32:676] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:37:678] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:37:678] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:42:681] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:42:682] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:47:675] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:47:675] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:52:679] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:52:680] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:08:57:682] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:08:57:683] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:02:683] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:02:684] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:07:685] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:07:686] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:12:684] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:12:685] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:17:688] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:17:689] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:22:688] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:22:688] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:27:689] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:27:690] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:32:695] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:32:695] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:37:690] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:37:690] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:42:690] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:42:691] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:47:691] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:47:691] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:52:692] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:52:693] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:09:57:694] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:09:57:694] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:02:695] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:02:695] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:07:696] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:07:696] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:12:697] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:12:697] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:17:698] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:17:699] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:22:701] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:22:701] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:27:699] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:27:700] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:32:701] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:32:701] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:37:703] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:37:703] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:42:704] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:42:704] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:47:707] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:47:708] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:52:714] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:52:714] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:10:57:712] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:10:57:713] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:02:710] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:02:711] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:07:709] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:07:709] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:12:711] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:12:712] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:17:712] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:17:713] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:22:716] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:22:717] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:27:716] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:27:716] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:32:717] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:32:717] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:37:725] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:37:726] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:42:719] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:42:719] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:47:730] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:47:731] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:52:725] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:52:728] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:11:57:716] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:11:57:716] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:02:722] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:02:723] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:07:723] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:07:724] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:12:724] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:12:725] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:17:726] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:17:727] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:22:727] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:22:728] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:27:730] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:27:731] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:32:731] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:32:731] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:37:732] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:37:733] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:42:733] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:42:734] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:47:735] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:47:736] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:52:735] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:52:735] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:12:57:736] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:12:57:736] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:02:735] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:02:736] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:07:737] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:07:737] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:12:738] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:12:738] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:17:739] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:17:740] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:22:740] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:22:741] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:27:742] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:27:742] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:32:743] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:32:743] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:37:745] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:37:745] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:42:745] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:42:745] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:47:746] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:47:747] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:52:747] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:52:748] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:13:57:756] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:13:57:756] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:02:750] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:02:751] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:07:752] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:07:753] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:12:752] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:12:753] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:17:755] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:17:755] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:22:755] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:22:756] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:27:757] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:27:757] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:32:757] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:32:757] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:37:758] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:37:758] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:42:759] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:42:760] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:47:760] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:47:760] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:52:761] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:52:761] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:14:57:764] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:14:57:765] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:02:763] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:02:764] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:07:764] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:07:765] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:12:766] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:12:766] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:17:767] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:17:768] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:22:768] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:22:769] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:27:769] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:27:770] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:32:770] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:32:770] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:37:772] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:37:772] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:42:773] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:42:774] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:47:774] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:47:775] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:52:774] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:52:775] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:15:57:775] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:15:57:776] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:02:776] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:02:777] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:07:778] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:07:779] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:12:778] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:12:778] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:17:779] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:17:779] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:22:781] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:22:781] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:27:782] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:27:782] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:32:782] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:32:783] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:37:784] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:37:784] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:42:783] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:42:784] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:47:786] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:47:787] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:52:786] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:52:786] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:16:57:789] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:16:57:789] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:02:790] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:02:791] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:07:785] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:07:785] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:12:792] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:12:792] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:17:793] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:17:794] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:22:797] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:22:797] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:27:794] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:27:794] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:32:807] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:32:808] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:37:805] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:37:806] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:42:798] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:42:799] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:47:799] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:47:800] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:52:801] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:52:802] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:17:57:802] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:17:57:803] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:02:807] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:02:808] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:07:805] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:07:805] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:12:809] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:12:810] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:17:807] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:17:807] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:22:811] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:22:812] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:27:812] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:27:813] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:32:811] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:32:811] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:37:814] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:37:815] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:42:814] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:42:814] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:47:816] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:47:816] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:52:815] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:52:816] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:18:57:816] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:18:57:817] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:02:818] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:02:819] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:07:819] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:07:820] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:12:821] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:12:821] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:17:823] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:17:823] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:22:823] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:22:823] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:27:825] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:27:826] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:32:825] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:32:826] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:37:828] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:37:828] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:42:827] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:42:828] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:47:829] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:47:829] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:52:832] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:52:832] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:19:57:832] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:19:57:833] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:02:834] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:02:834] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:07:834] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:07:835] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:12:844] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:12:845] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:17:834] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:17:834] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:22:836] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:22:836] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:27:833] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:27:833] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:32:838] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:32:839] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:37:839] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:37:840] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:42:841] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:42:844] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:47:844] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:47:845] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:52:845] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:52:845] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:20:57:845] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:20:57:846] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:02:846] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:02:847] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:07:848] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:07:848] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:12:849] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:12:850] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:17:849] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:17:850] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:22:851] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:22:851] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:27:851] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:27:852] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:32:847] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:32:847] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:37:853] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:37:854] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:42:854] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:42:855] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:47:854] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:47:854] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:52:856] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:52:857] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:21:57:857] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:21:57:858] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:02:859] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:02:860] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:07:858] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:07:859] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:12:860] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:12:860] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:17:861] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:17:862] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:22:857] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:22:858] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:27:861] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:27:862] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:32:862] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:32:862] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:37:883] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:37:884] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:42:864] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:42:864] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:47:866] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:47:874] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:52:868] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:52:869] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:22:57:871] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:22:57:872] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:02:871] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:02:871] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:07:873] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:07:873] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:12:874] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:12:875] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:17:875] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:17:875] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:22:875] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:22:876] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:27:885] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:27:885] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:32:881] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:32:882] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:37:883] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:37:883] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:42:882] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:42:882] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:47:883] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:47:884] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:52:882] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:52:883] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:23:57:886] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:23:57:886] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:02:886] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:02:886] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:07:888] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:07:888] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:12:882] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:12:882] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:17:886] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:17:886] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:22:892] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:22:893] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:27:890] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:27:890] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:32:892] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:32:892] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:37:893] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:37:894] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:42:894] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:42:895] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:47:893] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:47:894] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:52:895] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:52:895] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:24:57:896] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:24:57:897] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:02:898] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:02:898] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:07:908] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:07:909] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:12:900] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:12:901] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:17:902] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:17:902] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:22:904] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:22:904] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:27:905] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:27:906] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:32:905] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:32:906] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:37:908] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:37:909] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:42:909] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:42:910] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:47:912] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:47:913] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:52:913] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:52:913] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:25:57:915] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:25:57:916] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:02:916] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:02:916] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:07:918] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:07:919] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:12:925] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:12:926] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:17:919] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:17:920] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:22:919] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:22:920] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:27:926] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:27:927] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:32:928] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:32:929] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:37:928] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:37:929] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:42:923] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:42:924] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:47:925] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:47:925] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:52:926] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:52:927] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:26:57:927] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:26:57:928] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:02:928] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:02:929] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:07:931] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:07:931] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:12:939] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:12:939] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:17:932] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:17:933] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:22:933] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:22:933] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:27:934] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:27:935] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:32:936] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:32:936] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:37:936] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:37:937] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:42:938] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:42:938] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:47:938] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:47:939] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:52:939] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:52:939] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:27:57:941] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:27:57:941] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:02:942] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:02:942] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:07:943] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:07:944] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:12:958] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:12:959] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:17:944] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:17:944] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:22:945] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:22:946] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:27:946] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:27:946] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:32:946] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:32:947] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:37:945] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:37:946] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:42:952] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:42:953] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:47:961] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:47:961] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:52:953] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:52:954] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:28:57:955] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:28:57:955] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:02:955] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:02:956] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:07:957] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:07:958] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:12:966] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:12:967] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:17:958] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:17:959] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:22:959] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:22:960] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:27:959] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:27:959] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:32:962] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:32:962] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:37:964] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:37:964] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:42:966] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:42:966] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:47:959] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:47:960] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:52:967] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:52:967] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:29:57:968] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:29:57:968] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:02:974] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:02:975] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:07:970] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:07:970] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:12:971] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:12:972] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:17:972] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:17:972] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:22:973] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:22:973] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:27:971] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:27:971] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:32:975] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:32:976] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:37:974] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:37:974] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:42:978] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:42:978] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:47:976] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:47:977] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:52:978] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:52:978] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:30:57:980] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:30:57:980] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:02:981] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:02:982] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:07:982] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:07:983] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:12:984] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:12:984] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:17:984] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:17:985] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:22:988] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:22:989] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:27:987] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:27:987] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:32:988] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:32:989] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:37:988] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:37:988] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:42:994] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:42:995] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:47:994] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:47:995] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:52:991] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:52:992] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:31:57:998] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:31:57:999] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:02:993] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:02:994] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:07:996] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:07:996] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:12:998] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:12:999] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:17:999] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:17:999] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:23:007] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:23:008] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:28:003] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:28:003] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:33:002] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:33:002] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:38:004] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:38:005] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:43:003] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:43:004] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:48:006] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:48:007] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:53:007] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:53:008] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:32:58:008] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:32:58:008] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:03:009] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:03:009] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:08:017] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:08:017] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:13:020] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:13:020] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:18:014] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:18:015] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:23:015] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:23:015] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:28:016] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:28:017] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:33:018] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:33:018] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:38:019] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:38:019] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:43:025] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:43:025] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:48:025] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:48:025] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:53:022] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:53:022] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:33:58:023] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:33:58:023] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:03:028] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:03:028] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:08:030] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:08:031] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:13:036] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:13:036] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:18:031] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:18:031] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:23:034] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:23:035] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:28:040] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:28:041] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:33:037] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:33:039] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:38:039] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:38:040] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:43:042] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:43:043] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:48:040] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:48:040] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:53:039] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:53:040] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:34:58:044] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:34:58:045] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:03:043] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:03:043] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:08:046] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:08:046] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:13:044] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:13:045] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:18:045] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:18:046] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:23:045] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:23:046] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:28:047] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:28:047] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:33:048] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:33:049] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:38:051] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:38:052] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:43:051] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:43:052] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:48:052] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:48:053] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:53:053] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:53:054] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:35:58:054] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:35:58:055] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:03:055] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:03:055] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:08:056] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:08:057] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:13:057] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:13:058] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:18:058] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:18:059] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:23:059] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:23:059] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:28:060] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:28:061] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:33:060] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:33:060] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:38:061] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:38:061] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:43:063] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:43:064] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:48:064] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:48:064] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:53:065] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:53:065] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 17:36:58:067] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 17:36:58:068] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 22:17:08:375] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 22:17:08:378] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 22:17:13:361] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 22:17:13:362] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 22:17:18:363] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[04/26/18, 22:17:18:363] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[04/26/18, 22:17:19:239] info: Store: QUIT_APP
+[04/26/18, 22:17:19:273] info: Store: REMOVE_WINDOW 2
+[04/26/18, 22:17:19:340] info: Store: QUIT_APP
+[04/30/18, 23:51:03:013] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[04/30/18, 23:51:03:015] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 04/30/18, 23:51:03:009      ║
+[04/30/18, 23:51:03:015] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[04/30/18, 23:51:03:216] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[04/30/18, 23:51:04:373] error: Calls failed to load, bailing
+[04/30/18, 23:51:04:376] info: cld3::loadModule: loading cld3 module
+[04/30/18, 23:51:04:466] info: cld3Loader::loadModule: running environment is NODE
+[04/30/18, 23:51:04:467] info: cld3Loader::loadModule: constructed module object for runtime
+[04/30/18, 23:51:05:349] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/30/18, 23:51:05:350] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/30/18, 23:51:05:363] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/30/18, 23:51:05:364] info: SSBIntegration: Main window preload script loaded 2949.575244
+[04/30/18, 23:51:05:391] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/30/18, 23:51:05:394] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[04/30/18, 23:51:05:395] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[04/30/18, 23:51:05:397] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[04/30/18, 23:51:05:399] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[04/30/18, 23:51:05:412] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[04/30/18, 23:51:05:423] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[04/30/18, 23:51:05:426] info: Window is unloading, winssb is no longer accessible
+[04/30/18, 23:51:05:428] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[04/30/18, 23:51:05:439] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[04/30/18, 23:51:06:434] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[04/30/18, 23:51:06:442] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[04/30/18, 23:51:06:443] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[04/30/18, 23:51:06:834] info: Store: SET_NETWORK_STATUS online
+[04/30/18, 23:51:06:840] info: Store: MAIN_WINDOW_SHOWN
+[05/04/18, 07:28:12:006] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/04/18, 07:28:12:007] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/04/18, 07:28:12:000      ║
+[05/04/18, 07:28:12:007] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/04/18, 07:28:13:470] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/04/18, 07:28:14:501] info: NetworkStatus: Waiting for network online…
+[05/04/18, 07:28:15:250] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:15:257] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:15:258] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:15:261] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:15:264] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:15:267] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:15:269] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:15:272] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:15:274] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:15:276] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:15:279] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:15:281] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:15:284] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:15:288] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:15:293] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:15:511] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[05/04/18, 07:28:15:573] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:15:581] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:15:590] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:15:598] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:15:603] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:15:917] info: Store: SET_NETWORK_STATUS online
+[05/04/18, 07:28:15:928] info: Store: MAIN_WINDOW_SHOWN
+[05/04/18, 07:28:16:950] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    10,
+    42
+  ],
+  "size": [
+    1900,
+    1002
+  ]
+}
+[05/04/18, 07:28:22:987] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:28:23:067] info: Store: SELECT_TEAM T02R0MMHK
+[05/04/18, 07:28:23:098] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/04/18, 07:28:26:529] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:27:319] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:27:408] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:27:735] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:27:994] info: Store: SELECT_CHANNEL C611PHRBQ
+[05/04/18, 07:28:28:010] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:28:025] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5YEC6G73",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/04/18, 07:28:28:588] info: Store: SELECT_CHANNEL G7GGG2GPN
+[05/04/18, 07:28:28:905] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:29:028] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_original.png"
+  },
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:29:232] info: Store: SELECT_CHANNEL C4JRHEQB1
+[05/04/18, 07:28:29:264] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:29:290] info: Store: SELECT_CHANNEL DAHC8TMSR
+[05/04/18, 07:28:29:299] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US"
+}
+[05/04/18, 07:28:29:416] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:29:428] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 07:28:29:447] info: Store: SELECT_CHANNEL C0GFH3RHU
+[05/04/18, 07:28:29:475] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:29:644] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:29:760] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5YEC6G73",
+  "token": "xoxs-⋯"
+}
+[05/04/18, 07:28:29:928] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:29:963] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:30:400] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:30:671] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:30:703] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "webapp-loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:30:738] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:30:769] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:30:935] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:30:976] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:31:260] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_original.jpg"
+  },
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:31:539] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:28:31:602] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "webapp-loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:31:635] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5LFW0CUB",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/04/18, 07:28:31:658] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5LFW0CUB",
+  "token": "xoxs-⋯"
+}
+[05/04/18, 07:28:31:675] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_230.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-08-21/229801110004_7754c1684d8336d012c4_original.jpg"
+  },
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 07:28:31:703] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T4HEMM0UR",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/04/18, 07:28:31:833] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T4HEMM0UR",
+  "token": "xoxs-⋯"
+}
+[05/04/18, 07:28:31:869] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_original.png"
+  },
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 07:28:31:949] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:31:978] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 07:28:32:178] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T02R0MMHK",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/04/18, 07:28:32:230] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T0GFBAM8C",
+  "token": "xoxs-⋯"
+}
+[05/04/18, 07:28:32:248] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_132.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-12-19/17054493216_07addcfb3fb1718cbba4_original.png"
+  },
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 07:28:32:591] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T02R0MMHK",
+  "token": "xoxs-⋯"
+}
+[05/04/18, 07:28:33:022] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T0GFBAM8C",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/04/18, 07:36:03:708] info: Store: SELECT_CHANNEL C02R0MMJB
+[05/04/18, 07:36:13:304] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:36:13:385] info: Store: SELECT_TEAM T5YEC6G73
+[05/04/18, 07:36:21:288] info: Store: SELECT_CHANNEL C8Y1H7TEE
+[05/04/18, 07:39:02:261] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:39:02:387] info: Store: SELECT_TEAM T5LFW0CUB
+[05/04/18, 07:39:02:402] info: Store: UPDATE_SETTINGS
+{
+  "locale": "ja-JP"
+}
+[05/04/18, 07:39:02:402] info: TranslationLookup: locale set to ja-JP for renderer
+[05/04/18, 07:39:25:047] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:39:25:165] info: Store: SELECT_TEAM T0GFBAM8C
+[05/04/18, 07:40:03:229] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:40:03:344] info: Store: SELECT_TEAM T5YEC6G73
+[05/04/18, 07:40:03:353] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/04/18, 07:40:03:353] info: TranslationLookup: locale set to en-US for renderer
+[05/04/18, 07:40:04:699] info: Store: MAIN_WINDOW_FOCUSED
+[05/04/18, 07:40:04:771] info: Store: SELECT_TEAM T02R0MMHK
+[05/04/18, 07:40:07:239] info: Store: SELECT_CHANNEL DAHC8TMSR
+[05/04/18, 13:28:32:008] info: Store: UNLOAD_WEB_CONTENTS T4HEMM0UR
+[05/04/18, 13:39:26:007] info: Store: UNLOAD_WEB_CONTENTS T5LFW0CUB
+[05/04/18, 13:40:04:008] info: Store: UNLOAD_WEB_CONTENTS T0GFBAM8C
+[05/04/18, 13:40:05:007] info: Store: UNLOAD_WEB_CONTENTS T5YEC6G73
+[05/04/18, 16:48:04:193] info: Store: NEW_NOTIFICATION
+{
+  "avatarImage": "https://ca.slack-edge.com/T02R0MMHK-UAGT53ADQ-74ff4c1302cc-512",
+  "channel": "DAHC8TMSR",
+  "content": "[REDACTED]",
+  "id": "GN6HJhQDrqLZrV",
+  "imageUri": null,
+  "launchUri": "slack://channel?id=DAHC8TMSR&message=1525387698.000288&team=T02R0MMHK",
+  "msg": "1525387698.000288",
+  "silent": true,
+  "subtitle": "",
+  "teamId": "T02R0MMHK",
+  "title": "[REDACTED]"
+}

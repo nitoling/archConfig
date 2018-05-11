@@ -1,0 +1,32 @@
+[05/08/18, 11:16:12:806] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/08/18, 11:16:12:807] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/08/18, 11:16:12:802      ║
+[05/08/18, 11:16:12:807] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/08/18, 11:16:12:940] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/08/18, 11:16:13:556] error: Calls failed to load, bailing
+[05/08/18, 11:16:13:559] info: cld3::loadModule: loading cld3 module
+[05/08/18, 11:16:13:617] info: cld3Loader::loadModule: running environment is NODE
+[05/08/18, 11:16:13:617] info: cld3Loader::loadModule: constructed module object for runtime
+[05/08/18, 11:16:14:074] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/08/18, 11:16:14:074] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/08/18, 11:16:14:089] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/08/18, 11:16:14:090] info: TranslationLookup: locale set to ja-JP for renderer
+[05/08/18, 11:16:14:091] info: SSBIntegration: Main window preload script loaded 2011.395643
+[05/08/18, 11:16:14:123] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:14:141] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:14:155] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/08/18, 11:16:14:164] info: Window is unloading, winssb is no longer accessible

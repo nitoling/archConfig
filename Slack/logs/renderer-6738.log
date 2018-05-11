@@ -1,0 +1,142 @@
+[05/09/18, 21:48:05:748] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/09/18, 21:48:05:749] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/09/18, 21:48:05:744      ║
+[05/09/18, 21:48:05:749] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/09/18, 21:48:05:892] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/09/18, 21:48:06:495] error: Calls failed to load, bailing
+[05/09/18, 21:48:06:497] info: cld3::loadModule: loading cld3 module
+[05/09/18, 21:48:06:534] info: cld3Loader::loadModule: running environment is NODE
+[05/09/18, 21:48:06:534] info: cld3Loader::loadModule: constructed module object for runtime
+[05/09/18, 21:48:07:098] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/09/18, 21:48:07:099] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/09/18, 21:48:07:106] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/09/18, 21:48:07:108] info: SSBIntegration: Main window preload script loaded 1972.205121
+[05/09/18, 21:48:07:128] info: Store: SET_NETWORK_STATUS online
+[05/09/18, 21:48:07:130] info: Store: MAIN_WINDOW_SHOWN
+[05/09/18, 21:48:07:133] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    12,
+    44
+  ],
+  "size": [
+    942,
+    1024
+  ]
+}
+[05/09/18, 21:48:07:135] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 21:48:07:136] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 21:48:07:136] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 21:48:07:138] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 21:48:07:138] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 21:48:07:139] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 21:48:07:143] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 21:48:07:144] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 21:48:07:153] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 21:48:07:154] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 21:48:07:156] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 21:48:07:159] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 21:48:07:164] info: Window is unloading, winssb is no longer accessible
+[05/09/18, 21:48:07:209] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 21:48:07:222] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 21:48:07:225] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/09/18, 21:48:07:253] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/09/18, 21:48:07:480] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/09/18, 21:48:07:524] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/09/18, 21:48:07:546] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 21:48:07:577] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}

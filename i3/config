@@ -1,0 +1,125 @@
+#modkey to mate
+set $mod Mod4
+floating_modifier $mod
+
+#set workspace name
+set $ws1 1:
+set $ws2 2:
+set $ws3 3:
+set $ws4 4:
+
+# fonts
+font pango:Myrica M 13 
+
+#keys
+#Launch Terminal
+bindsym $mod+Return exec sakura
+
+#Quits
+bindsym $mod+q kill
+bindsym $mod+Shift+q exec "i3-msg exit"
+
+#Launch rofi (Launcher)
+bindsym $mod+r exec "rofi -show"
+
+
+#Window Control
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+bindsym $mod+Control+Left move left 200px
+bindsym $mod+Control+Down move down 200px
+bindsym $mod+Control+Up move up 200px
+bindsym $mod+Control+Right move right 200px
+
+bindsym $mod+Shift+Left move workspace to output left
+bindsym $mod+Shift+Down move workspace to output up
+bindsym $mod+Shift+Up move workspace to output down
+bindsym $mod+Shift+Right move workspace to output right
+
+#Split
+bindsym $mod+h split h
+bindsym $mod+v split v
+
+#Toggle modes
+bindsym $mod+f fullscreen toggle
+bindsym $mod+Shift+space floating toggle
+bindsym $mod+space focus mode_toggle
+
+
+# Container Layout
+bindsym $mod+s layout stacking
+bindsym $mod+d layout tabbed
+bindsym $mod+e layout toggle split
+
+#Workspace Control
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+7 workspace 7
+bindsym $mod+8 workspace 8
+bindsym $mod+9 workspace 9
+bindsym $mod+0 workspace 10
+
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+bindsym $mod+Shift+7 move container to workspace 7
+bindsym $mod+Shift+8 move container to workspace 8
+bindsym $mod+Shift+9 move container to workspace 9
+bindsym $mod+Shift+0 move container to workspace 10
+
+bindsym $mod+Shift+r exec sh ~/.config/script/restart.sh
+bindsym $mod+Shift+c reload
+
+# PrintScreen
+bindcode 107 exec deepin-screenshot
+
+# Fn Key
+bindcode 121 exec amixer set Master toggle
+bindcode 123 exec amixer set Master 5%+
+bindcode 122 exec amixer set Master 5%-
+bindcode 198 exec amixer set Capture toggle
+bindcode 233 exec "xbacklight -inc 5"
+bindcode 232 exec "xbacklight -dec 5"
+
+# Moving Workspace
+bindsym $mod+Prior workspace prev
+bindsym $mod+Next workspace next
+bindsym $mod+Tab workspace next
+
+bindsym $mod+w exec "rofi -show window"
+bindsym $mod+l exec "dm-tool lock"
+
+# Startup
+exec --no-startup-id "sh ~/.screenlayout/swk.sh"
+exec --no-startup-id "sh ~/.config/script/feh.sh"
+exec --no-startup-id "amixer set Master mute"
+exec --no-startup-id "amixer set Capture mute "
+exec --no-startup-id "fcitx"
+exec --no-startup-id "/usr/lib/notification-daemon-1.0/notification-daemon"
+exec --no-startup-id "compton --config .config/compton/compton.conf"
+exec --no-startup-id "nm-applet"
+exec --no-startup-id "blueman-applet"
+exec --no-startup-id volumeicon
+
+new_window none
+gaps inner 10
+assign [class="Firefox"] $ws2
+assign [class="Atom"] $ws3
+assign [class="Slack"] $ws4
+exec --no-startup-id i3-msg 'workspace1:;exec sakura'
+exec --no-startup-id trayer --monitor 1 --align right --tint 0xA0303030 --alpha 64 
+exec --no-startup-id firefox
+exec --no-startup-id slack
+exec --no-startup-id atom
+
+exec --no-startup-id sh ~/.config/script/bar.sh

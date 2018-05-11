@@ -1,0 +1,91 @@
+[05/07/18, 14:31:47:511] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/07/18, 14:31:47:512] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/07/18, 14:31:47:501      ║
+[05/07/18, 14:31:47:512] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/07/18, 14:31:47:746] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/07/18, 14:31:48:622] error: Calls failed to load, bailing
+[05/07/18, 14:31:48:624] info: cld3::loadModule: loading cld3 module
+[05/07/18, 14:31:48:700] info: cld3Loader::loadModule: running environment is NODE
+[05/07/18, 14:31:48:701] info: cld3Loader::loadModule: constructed module object for runtime
+[05/07/18, 14:31:49:445] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/07/18, 14:31:49:445] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/07/18, 14:31:49:470] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/07/18, 14:31:49:471] info: SSBIntegration: Main window preload script loaded 2755.615057
+[05/07/18, 14:31:49:479] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 14:31:49:487] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 14:31:49:495] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 14:31:49:511] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 14:31:49:517] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 14:31:49:521] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 14:31:49:534] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 14:31:49:543] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 14:31:49:556] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 14:31:49:561] info: Window is unloading, winssb is no longer accessible
+[05/07/18, 14:31:49:586] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 14:31:49:639] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 14:31:49:652] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 14:31:49:693] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}

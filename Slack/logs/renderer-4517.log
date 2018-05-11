@@ -1,0 +1,141 @@
+[05/07/18, 21:10:55:554] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/07/18, 21:10:55:555] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/07/18, 21:10:55:539      ║
+[05/07/18, 21:10:55:555] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/07/18, 21:10:55:836] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/07/18, 21:10:56:617] error: Calls failed to load, bailing
+[05/07/18, 21:10:56:619] info: cld3::loadModule: loading cld3 module
+[05/07/18, 21:10:56:667] info: cld3Loader::loadModule: running environment is NODE
+[05/07/18, 21:10:56:667] info: cld3Loader::loadModule: constructed module object for runtime
+[05/07/18, 21:10:57:439] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/07/18, 21:10:57:439] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/07/18, 21:10:57:458] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/07/18, 21:10:57:459] info: SSBIntegration: Main window preload script loaded 2778.807459
+[05/07/18, 21:10:57:495] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:10:57:533] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:10:57:542] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:10:57:557] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:10:57:576] info: Window is unloading, winssb is no longer accessible
+[05/07/18, 21:10:57:591] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:10:57:605] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "page-will-navigate",
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:10:57:827] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:10:57:828] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:10:57:845] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:10:57:854] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:10:57:877] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:10:57:890] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:10:58:008] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:10:58:017] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:10:58:022] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "page-will-navigate",
+  "teamId": "T0GFBAM8C"
+}
+[05/07/18, 21:10:58:206] info: Store: SET_NETWORK_STATUS offline
+[05/07/18, 21:10:58:601] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/07/18, 21:10:58:621] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 21:10:58:626] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 21:10:58:629] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 21:10:58:633] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T0GFBAM8C"
+}
+[05/09/18, 18:36:50:454] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/09/18, 18:36:50:456] info: ║      Slack 3.1.1, linux 4.16.7-1-zen on x64 at 05/09/18, 18:36:50:450      ║
+[05/09/18, 18:36:50:456] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/09/18, 18:36:50:686] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/09/18, 18:36:51:850] error: Calls failed to load, bailing
+[05/09/18, 18:36:51:853] info: cld3::loadModule: loading cld3 module
+[05/09/18, 18:36:51:936] info: cld3Loader::loadModule: running environment is NODE
+[05/09/18, 18:36:51:939] info: cld3Loader::loadModule: constructed module object for runtime
+[05/09/18, 18:36:52:623] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/09/18, 18:36:52:623] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/09/18, 18:36:52:632] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/09/18, 18:36:52:633] info: SSBIntegration: Main window preload script loaded 3205.90961

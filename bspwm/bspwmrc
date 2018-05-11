@@ -1,0 +1,50 @@
+#! /bin/bash
+
+sxhkd &
+wmname LG3D &
+
+# Monitor (Name and reserve)
+edp=0x00200002
+hdmi=0x00200004
+
+## When didn't find additional monitor, its rule ignore.
+bspc monitor $edp -d terminal browser editor slack other
+bspc monitor $hdmi -d browser slack
+
+# Tile
+bspc config border_width         0
+bspc config window_gap          12
+bspc config split_ratio          0.5
+
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+# Window rule
+bspc rule -a Firefox desktop='browser'
+
+bspc rule -a Atom desktop='editor'
+bspc rule -a AndroidStudio desktop='editor'
+bspc rule -a jetbrains-clion desktop='editor'
+bspc rule -a jetbrains-goland desktop='editor'
+bspc rule -a jetbrains-pycharm desktop='editor'
+bspc rule -a jetbrains-rider desktop='editor'
+bspc rule -a jetbrains-toolbox desktop='editor' state=floating
+
+bspc rule -a Slack desktop='slack'
+bspc rule -a Gimp desktop='media' state=floating follow=on 
+
+bspc rule -a rofi state=floating follow=on
+
+# Startup
+amixer set Master mute &
+amixer set Capture mute &
+sh ~/.screenlayout/swk.sh &
+sh ~/.config/script/polybar.sh &
+compton -b --config .config/compton/compton.conf &
+sh ~/.config/script/feh.sh &
+nm-applet &
+fcitx &
+
+sakura &
+firefox &
+slack &

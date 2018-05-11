@@ -1,0 +1,424 @@
+[04/24/18, 15:24:10:338] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[04/24/18, 15:24:10:339] info: ║      Slack 3.1.1, linux 4.16.3-1-zen on x64 at 04/24/18, 15:24:10:336      ║
+[04/24/18, 15:24:10:339] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[04/24/18, 15:24:10:413] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[04/24/18, 15:24:10:737] error: Calls failed to load, bailing
+[04/24/18, 15:24:10:739] info: cld3::loadModule: loading cld3 module
+[04/24/18, 15:24:10:761] info: cld3Loader::loadModule: running environment is NODE
+[04/24/18, 15:24:10:761] info: cld3Loader::loadModule: constructed module object for runtime
+[04/24/18, 15:24:10:956] info: cld3Loader::initializeRuntime: successfully initialized module
+[04/24/18, 15:24:10:957] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[04/24/18, 15:24:10:959] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[04/24/18, 15:24:10:960] info: SSBIntegration: Main window preload script loaded 888.398303
+[04/24/18, 15:24:14:340] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:24:14:347] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:24:14:350] info: Store: SELECT_CHANNEL C4JRHEQB1
+[04/24/18, 15:24:14:350] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[04/24/18, 15:24:14:357] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "ja-JP"
+}
+[04/24/18, 15:24:14:357] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:24:14:367] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T4HEMM0UR",
+  "token": "xoxs-⋯"
+}
+[04/24/18, 15:24:14:390] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T4HEMM0UR",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[04/24/18, 15:24:14:590] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-03-15/154610708258_f98e05c23845866960a5_original.png"
+  },
+  "teamId": "T4HEMM0UR"
+}
+[04/24/18, 15:24:14:783] info: Raw Locale list: ["C","en_US.utf8","POSIX",""]
+[04/24/18, 15:24:14:783] info: Filtered Locale list: ["en_US"]
+[04/24/18, 15:24:14:783] info: Counts: {"en":["en_US"]}
+[04/24/18, 15:24:14:783] info: Setting en
+[04/24/18, 15:24:14:784] info: Result: {"en":"en-US"}
+[04/24/18, 15:24:14:786] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[04/24/18, 15:24:14:786] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:14:787] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:14:788] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:14:789] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:15:305] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:15:305] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:15:308] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:15:309] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:15:585] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:15:586] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:15:588] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:15:588] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:15:875] info: dictionary for ja-JP_ja-JP is not available
+[04/24/18, 15:24:15:877] info: Actually installing spell check provider to Electron
+[04/24/18, 15:24:15:907] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[04/24/18, 15:24:15:908] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:15:908] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:15:909] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:15:909] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:16:187] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:16:187] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:16:189] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:16:189] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:16:474] info: Loading dictionary for language ja-JP
+[04/24/18, 15:24:16:474] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[04/24/18, 15:24:16:475] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[04/24/18, 15:24:16:475] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[04/24/18, 15:24:16:766] info: dictionary for ja-JP_ja-JP is not available
+[04/24/18, 15:30:00:222] info: Store: SELECT_CHANNEL C02R0MMJ9
+[04/24/18, 15:30:38:458] info: Store: SELECT_CHANNEL C04Q8GKJA
+[04/24/18, 15:30:39:996] info: Store: MAIN_WINDOW_FOCUSED
+[04/24/18, 15:30:40:111] info: Store: SELECT_TEAM T5YEC6G73
+[04/24/18, 15:52:55:882] info: Store: MAIN_WINDOW_FOCUSED
+[04/24/18, 15:52:56:025] info: Store: SELECT_TEAM T02R0MMHK
+[04/24/18, 15:52:57:522] info: Store: MAIN_WINDOW_FOCUSED
+[04/24/18, 15:52:57:634] info: Store: SELECT_TEAM T5YEC6G73
+[04/24/18, 15:53:50:316] info: Store: SET_NETWORK_STATUS offline
+[04/24/18, 15:53:55:563] info: Store: SET_NETWORK_STATUS online
+[04/24/18, 16:09:15:213] info: Store: SET_NETWORK_STATUS offline
+[04/24/18, 16:09:20:472] info: Store: SET_NETWORK_STATUS online
+[04/24/18, 16:26:10:005] info: Store: SET_FULL_SCREEN
+[05/01/18, 15:04:52:564] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 15:04:52:565] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 15:04:52:562      ║
+[05/01/18, 15:04:52:565] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 15:04:52:646] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 15:04:52:906] error: Calls failed to load, bailing
+[05/01/18, 15:04:52:907] info: cld3::loadModule: loading cld3 module
+[05/01/18, 15:04:52:925] info: cld3Loader::loadModule: running environment is NODE
+[05/01/18, 15:04:52:925] info: cld3Loader::loadModule: constructed module object for runtime
+[05/01/18, 15:04:53:097] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/01/18, 15:04:53:097] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/01/18, 15:04:53:100] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/01/18, 15:04:53:101] info: SSBIntegration: Main window preload script loaded 796.176953
+[05/01/18, 15:04:53:523] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T4HEMM0UR"
+}
+[05/01/18, 15:04:55:482] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:05:00:575] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 178675.198683
+}
+[05/01/18, 15:05:00:768] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_102.png",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_132.png",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_230.png",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_34.png",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_44.png",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_68.png",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_88.png",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2017-06-28/205110093367_6705e64b9b4a8299bd1f_original.png"
+  },
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:05:00:774] info: Store: SELECT_CHANNEL C8Y1H7TEE
+[05/01/18, 15:05:00:774] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:05:00:775] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[05/01/18, 15:05:00:777] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T5YEC6G73",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:05:00:780] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:05:00:813] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T5YEC6G73",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:05:04:390] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 15:05:06:294] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/01/18, 15:05:08:005] info: Raw Locale list: ["C","en_US.utf8","POSIX",""]
+[05/01/18, 15:05:08:005] info: Filtered Locale list: ["en_US"]
+[05/01/18, 15:05:08:006] info: Counts: {"en":["en_US"]}
+[05/01/18, 15:05:08:006] info: Setting en
+[05/01/18, 15:05:08:007] info: Result: {"en":"en-US"}
+[05/01/18, 15:05:08:008] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:05:08:009] info: Loading dictionary for language ja-JP
+[05/01/18, 15:05:08:010] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:05:08:018] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:05:08:019] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:05:08:912] info: Loading dictionary for language ja-JP
+[05/01/18, 15:05:08:913] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:05:08:914] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:05:08:915] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:05:09:189] info: Loading dictionary for language ja-JP
+[05/01/18, 15:05:09:190] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:05:09:191] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:05:09:193] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:05:09:481] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:05:09:483] info: Actually installing spell check provider to Electron
+[05/01/18, 15:05:14:048] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:14:360] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:218] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_original.jpg"
+  },
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:349] info: Store: SELECT_CHANNEL C04Q8GKJA
+[05/01/18, 15:05:17:353] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:371] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T02R0MMHK",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:05:17:530] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:603] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T02R0MMHK",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:06:51:618] error: May-1 15:06:51.618 T5YEC6G73 SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:06:52:023] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:06:54:346] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:07:29:222] error: May-1 15:07:29.221 T5YEC6G73 SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:07:29:622] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:07:59:230] error: May-1 15:07:59.230 T5YEC6G73 SOCKET-MANAGER: Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/01/18, 15:08:04:300] info: Unloading spellchecker
+[05/01/18, 15:08:04:339] info: Unloading spellchecker
+[05/01/18, 15:08:14:132] info: Restoring spellchecker
+[05/01/18, 15:08:14:132] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:08:14:133] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:14:133] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:14:163] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:14:164] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:16:623] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:16:624] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:16:628] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:16:629] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:16:950] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:16:951] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:16:963] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:16:965] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:17:291] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:08:18:975] info: Unloading spellchecker
+[05/01/18, 15:08:19:048] info: Unloading spellchecker
+[05/01/18, 15:08:19:469] info: Restoring spellchecker
+[05/01/18, 15:08:19:472] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:08:19:474] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:19:476] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:19:529] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:19:530] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:19:917] info: Unloading spellchecker
+[05/01/18, 15:08:19:917] info: Unloading spellchecker
+[05/01/18, 15:08:19:985] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:19:985] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:19:988] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:19:993] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:20:950] info: Restoring spellchecker
+[05/01/18, 15:08:20:950] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:08:20:950] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:20:950] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:22:156] info: Unloading spellchecker
+[05/01/18, 15:08:22:164] info: Unloading spellchecker
+[05/01/18, 15:08:22:472] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:22:473] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:22:480] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:22:481] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:22:644] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:22:645] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:22:647] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:22:648] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:22:792] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:08:23:094] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:23:095] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:23:098] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:23:101] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:23:392] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:08:28:396] info: Restoring spellchecker
+[05/01/18, 15:08:28:397] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:08:28:397] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:28:397] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:28:446] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:28:447] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:29:261] info: Unloading spellchecker
+[05/01/18, 15:08:29:262] info: Unloading spellchecker
+[05/01/18, 15:08:29:266] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:29:267] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:29:306] error: May-1 15:08:29.305 T5YEC6G73 SOCKET-MANAGER: Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/01/18, 15:08:29:310] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:29:310] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:29:601] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:29:602] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:29:605] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:29:606] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:29:903] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:08:29:989] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:08:30:452] info: Restoring spellchecker
+[05/01/18, 15:08:30:452] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:08:30:453] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:30:453] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:30:484] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:30:485] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:30:808] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:30:809] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:30:813] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:30:814] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:31:105] info: Loading dictionary for language ja-JP
+[05/01/18, 15:08:31:106] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:08:31:113] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:08:31:114] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:08:31:399] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:08:34:683] info: Unloading spellchecker
+[05/01/18, 15:08:34:685] info: Unloading spellchecker
+[05/01/18, 15:11:54:637] info: Restoring spellchecker
+[05/01/18, 15:11:54:638] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:11:54:640] info: Loading dictionary for language ja-JP
+[05/01/18, 15:11:54:641] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:11:54:679] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:11:54:682] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:11:55:548] info: Loading dictionary for language ja-JP
+[05/01/18, 15:11:55:548] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:11:55:550] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:11:55:552] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:11:55:836] info: Loading dictionary for language ja-JP
+[05/01/18, 15:11:55:836] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:11:55:844] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:11:55:846] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:11:56:170] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:12:20:073] info: Unloading spellchecker
+[05/01/18, 15:12:20:073] info: Unloading spellchecker
+[05/01/18, 15:12:21:066] info: Restoring spellchecker
+[05/01/18, 15:12:21:067] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:12:21:067] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:21:067] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:12:21:086] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:12:21:086] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:21:627] info: Unloading spellchecker
+[05/01/18, 15:12:21:628] info: Unloading spellchecker
+[05/01/18, 15:12:22:587] info: Restoring spellchecker
+[05/01/18, 15:12:22:587] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:12:22:588] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:22:588] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:23:215] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:23:216] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:12:23:220] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:12:23:221] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:23:800] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:23:801] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:12:23:801] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:12:23:802] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:24:002] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:24:002] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:12:24:003] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:12:24:004] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:24:425] info: Loading dictionary for language ja-JP
+[05/01/18, 15:12:24:425] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:12:24:429] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:12:24:430] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic
+[05/01/18, 15:12:24:635] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:12:25:499] info: dictionary for ja-JP_ja-JP is not available
+[05/01/18, 15:12:37:757] info: Unloading spellchecker
+[05/01/18, 15:12:37:759] info: Unloading spellchecker
+[05/01/18, 15:13:43:920] info: Restoring spellchecker
+[05/01/18, 15:13:43:922] info: Requesting to load ja-JP, alternatives are ["ja-JP","ja-JP","ja-JP"]
+[05/01/18, 15:13:43:922] info: Loading dictionary for language ja-JP
+[05/01/18, 15:13:43:922] info: Returning local copy: /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic
+[05/01/18, 15:13:43:927] info: Failed to read file /home/nitoli/.config/Slack/dictionaries/ja-JP.bdic: File exists but is most likely bogus
+[05/01/18, 15:13:43:928] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/ja-jp-3-0.bdic

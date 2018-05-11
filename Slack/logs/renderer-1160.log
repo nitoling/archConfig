@@ -1,0 +1,123 @@
+[05/04/18, 06:18:56:668] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/04/18, 06:18:56:669] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/04/18, 06:18:56:664      ║
+[05/04/18, 06:18:56:669] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/04/18, 06:18:56:841] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/04/18, 06:18:58:403] error: Calls failed to load, bailing
+[05/04/18, 06:18:58:408] info: cld3::loadModule: loading cld3 module
+[05/04/18, 06:18:58:594] info: cld3Loader::loadModule: running environment is NODE
+[05/04/18, 06:18:58:594] info: cld3Loader::loadModule: constructed module object for runtime
+[05/04/18, 06:18:59:187] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/04/18, 06:18:59:187] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/04/18, 06:18:59:203] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/04/18, 06:18:59:206] info: SSBIntegration: Main window preload script loaded 3378.978312
+[05/04/18, 06:18:59:261] info: Store: SET_NETWORK_STATUS offline
+[05/04/18, 06:18:59:269] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 06:18:59:271] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 06:18:59:272] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 06:18:59:272] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 06:18:59:272] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 06:18:59:275] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 06:18:59:276] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 06:18:59:287] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5LFW0CUB"
+}
+[05/04/18, 06:18:59:288] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 06:18:59:288] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 06:18:59:288] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "empty-page",
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 06:18:59:289] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "empty-page",
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 06:18:59:289] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T5YEC6G73"
+}
+[05/04/18, 06:18:59:290] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T4HEMM0UR"
+}
+[05/04/18, 06:18:59:295] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "loaded",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 06:18:59:315] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 7,
+  "state": "empty-page",
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 06:18:59:363] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T0GFBAM8C"
+}
+[05/04/18, 06:18:59:806] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 06:18:59:828] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/04/18, 06:18:59:917] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": null,
+  "teamId": "T02R0MMHK"
+}

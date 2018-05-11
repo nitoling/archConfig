@@ -1,0 +1,76 @@
+[05/01/18, 15:05:11:497] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 15:05:11:498] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 15:05:11:494      ║
+[05/01/18, 15:05:11:498] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 15:05:11:581] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 15:05:11:869] error: Calls failed to load, bailing
+[05/01/18, 15:05:11:871] info: cld3::loadModule: loading cld3 module
+[05/01/18, 15:05:11:891] info: cld3Loader::loadModule: running environment is NODE
+[05/01/18, 15:05:11:891] info: cld3Loader::loadModule: constructed module object for runtime
+[05/01/18, 15:05:12:067] info: cld3Loader::initializeRuntime: successfully initialized module
+[05/01/18, 15:05:12:067] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[05/01/18, 15:05:12:071] warn: updateSpellcheckerLanguage: Tried to update language, but spellchecker not initialized
+[05/01/18, 15:05:12:072] info: SSBIntegration: Main window preload script loaded 864.082241
+[05/01/18, 15:05:14:052] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:14:359] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:597] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_102.jpg",
+    "image_132": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_230": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_132.jpg",
+    "image_34": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_34.jpg",
+    "image_44": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_44.jpg",
+    "image_68": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_68.jpg",
+    "image_88": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_88.jpg",
+    "image_original": "https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2015-01-14/3400695805_06e3ed8a8ae7228d7c54_original.jpg"
+  },
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:600] info: Store: SELECT_CHANNEL C04Q8GKJA
+[05/01/18, 15:05:17:600] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:601] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T02R0MMHK",
+  "theme": {
+    "active_item": "#4C9689",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#38978D",
+    "badge": "#EB4D5C",
+    "column_bg": "#4D394B",
+    "hover_item": "#3E313C",
+    "menu_bg": "#3E313C",
+    "text_color": "#FFFFFF"
+  }
+}
+[05/01/18, 15:05:17:602] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "webapp-loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/01/18, 15:05:17:610] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T02R0MMHK",
+  "token": "xoxs-⋯"
+}
+[05/01/18, 15:05:26:001] info: Couldn't get hint text from messages in channel: Failed to fetch recent messages
+[05/01/18, 15:06:51:618] error: May-1 15:06:51.618 T02R0MMHK SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:06:52:022] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:06:54:344] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 15:07:29:220] error: May-1 15:07:29.220 T02R0MMHK SOCKET-MANAGER: Closing socket because #4105: client went offline
+[05/01/18, 15:07:29:621] info: Store: SET_NETWORK_STATUS offline
+[05/01/18, 15:08:00:002] error: May-1 15:08:00.200 T02R0MMHK SOCKET-MANAGER: Closing socket because we spent 30000 ms in wait_for_connectivity state; giving up
+[05/01/18, 15:08:29:987] info: Store: SET_NETWORK_STATUS online

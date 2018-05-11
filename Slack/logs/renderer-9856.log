@@ -1,0 +1,48 @@
+[05/07/18, 18:59:26:847] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/07/18, 18:59:26:848] info: ║      Slack 3.1.1, linux 4.16.6-1-zen on x64 at 05/07/18, 18:59:26:844      ║
+[05/07/18, 18:59:26:848] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/07/18, 18:59:26:965] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/07/18, 18:59:28:101] info: Store: SET_NETWORK_STATUS online
+[05/07/18, 18:59:30:742] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "loaded",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 18:59:30:767] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "empty-page",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 18:59:30:778] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 4,
+  "state": "page-will-navigate",
+  "teamId": "T02R0MMHK"
+}
+[05/07/18, 18:59:30:806] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "loaded",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 18:59:30:845] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "empty-page",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 18:59:30:856] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 6,
+  "state": "page-will-navigate",
+  "teamId": "T5LFW0CUB"
+}
+[05/07/18, 18:59:31:155] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/07/18, 18:59:31:162] info: Store: MAIN_WINDOW_SHOWN

@@ -1,0 +1,12 @@
+[05/01/18, 23:10:48:471] info: ╔════════════════════════════════════════════════════════════════════════════╗
+[05/01/18, 23:10:48:472] info: ║      Slack 3.1.1, linux 4.16.5-1-zen on x64 at 05/01/18, 23:10:48:469      ║
+[05/01/18, 23:10:48:472] info: ╚════════════════════════════════════════════════════════════════════════════╝
+[05/01/18, 23:10:48:551] info: Initializing local storage instance at path: /home/nitoli/.config/Slack/local-settings.json
+[05/01/18, 23:10:49:784] info: Store: SET_NETWORK_STATUS online
+[05/01/18, 23:10:54:575] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T5YEC6G73"
+}
+[05/01/18, 23:10:54:589] info: Store: MAIN_WINDOW_SHOWN
