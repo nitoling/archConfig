@@ -1,6 +1,0 @@
-2018/05/11-11:12:44.904 5669 Reusing MANIFEST /home/nitoli/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2018/05/11-11:12:44.904 5669 Recovering log #3
-2018/05/11-11:12:44.908 5669 Reusing old log /home/nitoli/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
-2018/05/11-11:21:42.207 6355 Level-0 table #5: started
-2018/05/11-11:21:42.268 6355 Level-0 table #5: 2530236 bytes OK
-2018/05/11-11:21:42.284 6355 Delete type=0 #3
