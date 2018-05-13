@@ -37,7 +37,7 @@ font-2 = Noto Sans Symbols2:size=12
 
 modules-left = bspwm
 modules-center = 
-modules-right = cpu memory wlan eth volume battery temperature date
+modules-right = cpu memory wlan eth volume battery temperature
 
 tray-position = right
 tray-padding = 0
