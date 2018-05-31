@@ -1,2 +1,2 @@
 sleep 1
-feh --bg-fill /usr/share/pixmaps/tengu.jpg
+feh --bg-fill /usr/share/pixmaps/nitori.png

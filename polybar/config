@@ -1,18 +1,20 @@
 [colors]
-background = #00303030
-background-alt = #444
+background = #CC111111
+background-alt = #555
 foreground = #dfdfdf
-foreground-alt = #777
+foreground-alt = #555
 primary = #ffb52a
 secondary = #e60053
 alert = #bd2c40
 accent = #4DD0E1
 
 [bar/top]
-width = 100%
+width = 1900
 height = 30
 radius = 0
-fixed-center = false
+fixed-center = true
+offset-x = 10
+offset-y = 10
 
 monitor = ${env:MONITOR:}
 
@@ -25,11 +27,11 @@ line-color = #f00
 border-size = 1
 border-color = #00000000
 
-padding-left = 1
+padding-left = 3
 padding-right = 3
 
-module-margin-left = 0
-module-margin-right = 1
+module-margin-left = 2
+module-margin-right = 0
 
 font-0 = Noto Sans:size=12
 font-1 = FontAwesome:size=12
@@ -37,10 +39,12 @@ font-2 = Noto Sans Symbols2:size=12
 
 modules-left = bspwm
 modules-center = 
-modules-right = cpu memory wlan eth volume battery temperature
+modules-right = cpu temperature memory wlan eth volume battery date
 
 tray-position = right
 tray-padding = 0
+tray-maxsize = 16
+tray-detached = false
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -60,19 +64,25 @@ ws-icon-0 = terminal;
 ws-icon-1 = browser;
 ws-icon-2 = editor;
 ws-icon-3 = slack;
-ws-icon-default = 
+ws-icon-default = 
 
 label-focused = %icon%
 label-focused-foreground = ${colors.accent}
-label-focused-padding = 2
+label-focused-underline= ${colors.accent}
+label-focused-padding = 1
+label-focused-margin = 1
 
 label-occupied = %icon%
 label-occupied-foreground = ${colors.foreground-alt}
-label-occupied-padding = 2
+label-occupied-underline= ${colors.foreground-alt}
+label-occupied-padding = 1
+label-occupied-margin = 1
 
 label-urgent = %icon%!
 label-urgent-foreground = ${colors.alert}
-label-urgent-padding = 2
+label-urgent-underline= ${colors.foreground-alt}
+label-urgent-padding = 1
+label-urgent-margin = 1
 
 label-empty = 
 
@@ -85,6 +95,8 @@ type = internal/cpu
 interval = 1
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground}
+format-underline = ${colors.accent}
+
 label = %percentage% %
 
 [module/memory]
@@ -92,6 +104,7 @@ type = internal/memory
 interval = 1
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground}
+format-underline = ${colors.accent}
 label = %gb_used%
 
 [module/wlan]
@@ -102,11 +115,14 @@ interval = 1
 format-connected = <label-connected>
 format-connected-prefix = "  "
 format-connected-foreground = ${colors.accent}
+format-underline = ${colors.accent}
+format-connected-underline = ${colors.accent}
 label-connected = %essid% : %local_ip%
 
 format-disconnected = <label-disconnected>
 format-disconnected-prefix = "  "
 format-disconnected-foreground = ${colors.foreground-alt}
+format-disconnected-underline = ${colors.foreground-alt}
 label-disconnected = %ifname%
 
 ramp-signal-foreground = ${colors.foreground}
@@ -116,14 +132,16 @@ type = internal/network
 interface = eth0
 interval = 1
 
-format-connected-prefix = " "
+format-connected-prefix = " "
 format-connected-prefix-foreground = ${colors.accent}
 label-connected-foreground = ${colors.accent}
-label-connected = %local_ip%
+format-connected-underline = ${colors.accent}
+label-connected = %ifname% %local_ip%
 
 format-disconnected = <label-disconnected>
-format-disconnected-prefix = " "
+format-disconnected-prefix = " "
 format-disconnected-prefix-foreground = ${colors.foreground-alt}
+format-disconnected-underline = ${colors.foreground-alt}
 label-disconnected = %ifname%
 label-disconnected-foreground = ${colors.foreground-alt}
 
@@ -131,7 +149,9 @@ label-disconnected-foreground = ${colors.foreground-alt}
 type = internal/date
 interval = 1
 
-date = " %y/%m/%d"
+format-underline = ${colors.accent}
+
+date = " %m/%d"
 
 #time = %H:%M
 time = %H:%M:%S
@@ -147,50 +167,29 @@ type = internal/volume
 format-volume-foreground = ${colors.foreground}
 format-muted-foreground = ${colors.foreground-alt}
 
-; Available tags:
-;   <label-volume> (default)
-;   <ramp-volume>
-;   <bar-volume>
+format-volume-underline = ${colors.accent}
+format-muted-underline = ${colors.foreground-alt}
+
+
 format-volume = <ramp-volume> <bar-volume>
-
-; Available tags:
-;   <label-muted> (default)
-;   <ramp-volume>
-;   <bar-volume>
-format-muted = <label-muted> <bar-volume>
-
-; Available tokens:
-;   %percentage% (default)
-;label-volume = %percentage%%
-
-; Available tokens:
-;   %percentage% (default)
-label-muted = 🔇
-# label-muted-foreground = #ff0000
-
-; Only applies if <ramp-volume> is used
-ramp-volume-0 = 🔈
+ramp-volume-0 = 
 ramp-volume-1 = 🔉
 ramp-volume-2 = 🔊
 
-; If defined, it will replace <ramp-volume> when
-; headphones are plugged in to `headphone_control_numid`
-; If undefined, <ramp-volume> will be used for both
-; Only applies if <ramp-volume> is used
-;ramp-headphones-0 = 
+format-muted = <label-muted> <bar-volume>
+label-muted = 🔈
 
 bar-volume-width = 10
 bar-volume-foreground-0 = ${colors.accent}
 bar-volume-gradient = true
-bar-volume-indicator = |
+bar-volume-indicator = #
 bar-volume-indicator-font = 2
 bar-volume-indicator-foreground = ${colors.accent}
-bar-volume-fill = ― 
+bar-volume-fill = #
 bar-volume-fill-font = 2
-bar-volume-empty = ―
+bar-volume-empty = #
 bar-volume-empty-font = 2
 bar-volume-empty-foreground = ${colors.foreground-alt}
-
 
 [module/battery]
 type = internal/battery
@@ -199,12 +198,15 @@ adapter = AC
 full-at = 97
 
 format-charging = <animation-charging> <label-charging>
+format-charging-underline = ${colors.accent}
 
 format-discharging = <ramp-capacity> <label-discharging>
 format-discharging-foreground = ${colors.accent}
+format-discharging-underline = ${colors.accent}
 
 format-full-prefix = "  "
 format-full-prefix-foreground = ${colors.foreground}
+format-full-underline = ${colors.accent}
 
 ramp-capacity-0 = "  " 
 ramp-capacity-1 = "  " 
@@ -230,6 +232,7 @@ warn-temperature = 80
 format = <ramp> <label>
 format-warn = <ramp> <label-warn>
 format-warn-foreground = ${colors.alert}
+format-underline = ${colors.accent}
 
 label = %temperature%
 label-warn = %temperature%
