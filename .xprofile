@@ -1,0 +1,9 @@
+export XDG_CONFIG_HOME="$HOME/.config"
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=@im=fcitx
+export GOPATH=~/.go
+export JAVA_HOME=/usr/lib/jvm/java-9-openjdk
+export PATH=$PATH:/usr/lib/jvm/java-9-openjdk/bin
+
+[ "$XDG_CURRENT_DESKTOP" = "KDE" ] || [ "$XDG_CURRENT_DESKTOP" = "GNOME" ] || export QT_QPA_PLATFORMTHEME="qt5ct"
