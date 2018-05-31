@@ -45,7 +45,7 @@ sh ~/.config/script/feh.sh &
 nm-applet &
 fcitx &
 
-sakura &
-firefox &
-subl &
+# sakura &
+# firefox &
+# subl &
 slack &
