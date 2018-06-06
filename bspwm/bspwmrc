@@ -1,9 +1,11 @@
-#! /bin/bash
-
+#! /bin/sh
 sxhkd &
 wmname LG3D &
 
-# Monitor (Name and reserve)
+# 
+# Monitor
+# 
+
 edp=0x00200002
 hdmi=0x00200004
 
@@ -11,15 +13,28 @@ hdmi=0x00200004
 bspc monitor $edp -d terminal browser editor slack media other
 bspc monitor $hdmi -d browser slack other
 
-# Tile
-bspc config border_width         0
-bspc config window_gap          12
-bspc config split_ratio          0.5
 
-bspc config borderless_monocle   true
-bspc config gapless_monocle      true
+#
+# Appearance
+#
 
+bspc config window_gap  10
+bspc config split_ratio 0.5
+
+bspc config borderless_monocle true
+bspc config gapless_monocle    true
+
+# Border on Tiles
+bspc config border_width         3
+bspc config normal_border_color  '#555555'
+bspc config active_border_color  '#555555'
+bspc config focused_border_color '#4dd0e1'
+
+
+#
 # Window rule
+# 
+
 bspc rule -a Firefox desktop='browser'
 
 bspc rule -a Sublime_text desktop='editor'
@@ -35,7 +50,11 @@ bspc rule -a Gimp desktop='media' state=floating follow=on
 
 bspc rule -a rofi state=floating follow=on
 
+
+#
 # Startup
+#
+
 amixer set Master mute &
 amixer set Capture mute &
 sh ~/.screenlayout/swk.sh &
@@ -49,3 +68,13 @@ fcitx &
 # firefox &
 # subl &
 slack &
+
+
+# 
+# Focus Behavior
+#
+
+bspc config focus_follows_pointer   true
+bspc config pointer_follows_focus   true
+bspc config pointer_follows_monitor true
+bspc config swallow_first_click true
