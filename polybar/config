@@ -1,5 +1,5 @@
 [colors]
-background = #CC111111
+background = #cc111111
 background-alt = #555
 foreground = #dfdfdf
 foreground-alt = #555
@@ -12,7 +12,6 @@ accent = #4DD0E1
 width = 1900
 height = 30
 radius = 0
-fixed-center = true
 offset-x = 10
 offset-y = 10
 
@@ -24,7 +23,7 @@ foreground = ${colors.foreground}
 line-size = 4
 line-color = #f00
 
-border-size = 1
+border-size = 0
 border-color = #00000000
 
 padding-left = 3
@@ -45,6 +44,7 @@ tray-position = right
 tray-padding = 0
 tray-maxsize = 16
 tray-detached = false
+tray-background = ${colors.background}
 
 cursor-click = pointer
 cursor-scroll = ns-resize
@@ -85,6 +85,48 @@ label-urgent-padding = 1
 label-urgent-margin = 1
 
 label-empty = 
+
+;
+; i3
+;
+
+[module/i3]
+type = internal/i3
+format = <label-state> <label-mode>
+pin-workspaces = true
+index-sort = true
+fuzzy-match = true
+
+ws-icon-0 = terminal;
+ws-icon-1 = browser;
+ws-icon-2 = editor;
+ws-icon-3 = slack;
+ws-icon-default = 
+
+label-focused = %icon%
+label-focused-foreground = ${colors.accent}
+label-focused-underline = ${colors.accent}
+label-focused-padding = 1
+label-focused-margin = 1
+
+label-urgent = %icon%
+label-urgent-foreground = ${colors.alert}
+label-urgent-underline = ${colors.alert}
+label-urgent-padding = 1
+label-urgent-margin = 1
+
+label-unfocused = %icon%
+label-unfocused-foreground = ${colors.foreground-alt}
+label-unfocused-underline = ${colors.foreground-alt}
+label-unfocused-padding = 1
+label-unfocused-margin = 1
+
+; Unfocused monitor's visible workspace
+label-visible = %icon%
+label-visible-foreground = ${colors.accent}
+label-visible-underline = ${colors.accent}
+label-visible-padding = 1
+label-visible-margin = 1
 
 ; 
 ; Modules

@@ -1,0 +1,99 @@
+#
+# Appearance
+#
+
+font pango:Myrica M 13
+gaps inner 10
+
+# Border
+default_border pixel 3
+default_floating_border pixel 3
+
+#
+# Workspace
+#
+
+#set workspace name
+set $ws1 1terminal
+set $ws2 2browser
+set $ws3 3editor
+set $ws4 4slack
+
+# Window rule
+assign [class="Firefox"] $ws2
+assign [class="Sublime_text"] $ws3
+assign [class="Slack"] $ws4
+
+
+#
+# Startup
+#
+
+exec --no-startup-id "sh ~/.screenlayout/swk.sh"
+exec --no-startup-id "sh ~/.config/script/feh.sh"
+exec --no-startup-id "amixer set Master mute"
+exec --no-startup-id "sh ~/.config/script/polybar.sh"
+exec --no-startup-id "amixer set Capture mute "
+exec --no-startup-id "fcitx"
+exec --no-startup-id "/usr/lib/notification-daemon-1.0/notification-daemon"
+exec --no-startup-id "compton --config .config/compton/compton.conf"
+exec --no-startup-id "nm-applet"
+
+exec --no-startup-id sakura
+exec --no-startup-id firefox
+exec --no-startup-id subl
+exec --no-startup-id slack
+
+
+# 
+# KeyBinds
+#
+
+set $mod Mod4
+floating_modifier $mod
+
+# Launch Terminal
+bindsym $mod+Return exec sakura
+bindsym $mod+r exec "rofi -show run"
+bindsym $mod+q kill
+
+# i3wm
+bindsym $mod+Shift+q exec "i3-msg exit"
+bindsym $mod+Shift+r exec sh ~/.config/script/i3restart.sh
+bindsym $mod+Shift+c reload
+
+#Window Control
+bindsym $mod+Left focus left
+bindsym $mod+Down focus down
+bindsym $mod+Up focus up
+bindsym $mod+Right focus right
+
+bindsym $mod+Shift+Left move workspace to output left
+bindsym $mod+Shift+Down move workspace to output up
+bindsym $mod+Shift+Up move workspace to output down
+bindsym $mod+Shift+Right move workspace to output right
+
+#Workspace Control
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace 5
+bindsym $mod+6 workspace 6
+bindsym $mod+Tab workspace next
+
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace 5
+bindsym $mod+Shift+6 move container to workspace 6
+
+# PrintScreen
+bindcode 107 exec deepin-screenshot
+
+# Fn Key
+bindcode 121 exec amixer set Master toggle
+bindcode 123 exec amixer set Master 5%+
+bindcode 122 exec amixer set Master 5%-
+bindcode 198 exec amixer set Capture toggle
