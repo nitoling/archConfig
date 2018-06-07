@@ -1,4 +1,4 @@
-#! /bin/sh
+#!/bin/bash
 sxhkd &
 wmname LG3D &
 

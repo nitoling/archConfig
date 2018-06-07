@@ -9,11 +9,10 @@ alert = #bd2c40
 accent = #4DD0E1
 
 [bar/top]
-width = 1900
+width = 100%
 height = 30
 radius = 0
-offset-x = 10
-offset-y = 10
+
 
 monitor = ${env:MONITOR:}
 
@@ -139,7 +138,7 @@ format-prefix = "  "
 format-prefix-foreground = ${colors.foreground}
 format-underline = ${colors.accent}
 
-label = %percentage% %
+label = %percentage:3% %
 
 [module/memory]
 type = internal/memory
@@ -194,9 +193,7 @@ interval = 1
 format-underline = ${colors.accent}
 
 date = " %m/%d"
-
-#time = %H:%M
-time = %H:%M:%S
+time = %H:%M
 
 format-prefix = "  "
 format-prefix-foreground = ${colors.foreground}
@@ -211,7 +208,6 @@ format-muted-foreground = ${colors.foreground-alt}
 
 format-volume-underline = ${colors.accent}
 format-muted-underline = ${colors.foreground-alt}
-
 
 format-volume = <ramp-volume> <bar-volume>
 ramp-volume-0 = 
@@ -256,7 +252,6 @@ ramp-capacity-2 = "  "
 ramp-capacity-3 = "  " 
 ramp-capacity-4 = "  "
 ramp-capacity-foreground = ${colors.foreground}
-
 
 animation-charging-0 = "  "
 animation-charging-1 = "  "
