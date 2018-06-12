@@ -5,9 +5,13 @@ super + space
 super + r
    rofi -show run
 super + q
-	bspc node -{c,k}
+	bspc node -c
 
-Print deepin-screenshot
+Print
+    deepin-screenshot
+
+super + {Up,Bottom,Left,Right}
+	bspc node -f {north,south,west,east}
 
 # Volume
 XF86AudioMute
