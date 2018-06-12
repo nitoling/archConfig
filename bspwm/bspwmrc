@@ -15,23 +15,6 @@ bspc monitor $hdmi -d browser slack other
 
 
 #
-# Appearance
-#
-
-bspc config window_gap  10
-bspc config split_ratio 0.5
-
-bspc config borderless_monocle true
-bspc config gapless_monocle    true
-
-# Border on Tiles
-bspc config border_width         3
-bspc config normal_border_color  '#555555'
-bspc config active_border_color  '#555555'
-bspc config focused_border_color '#4dd0e1'
-
-
-#
 # Window rule
 # 
 
@@ -63,6 +46,7 @@ compton -b --config .config/compton/compton.conf &
 sh ~/.config/script/feh.sh &
 nm-applet &
 fcitx &
+jetbrains-toolbox &
 
 # sakura &
 # firefox &
@@ -75,6 +59,32 @@ slack &
 #
 
 bspc config focus_follows_pointer   true
-bspc config pointer_follows_focus   true
 bspc config pointer_follows_monitor true
-bspc config swallow_first_click true
+bspc config swallow_first_click     true
+
+
+#
+# Pointer Action
+#
+
+bspc config pointer_modifier mod4
+bspc config pointer_motion_interval 50
+bspc config pointer_action1 resize_side
+bspc config pointer_action2 none
+bspc config pointer_action3 move
+
+#
+# Appearance
+#
+
+bspc config window_gap  10
+bspc config split_ratio 0.5
+
+bspc config borderless_monocle true
+bspc config gapless_monocle    true
+
+# Border
+bspc config border_width         4
+bspc config normal_border_color  '#555555'
+bspc config active_border_color  '#555555'
+bspc config focused_border_color '#4dd0e1'
