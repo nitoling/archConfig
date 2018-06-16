@@ -26,7 +26,7 @@ bspc rule -a jetbrains-clion desktop='editor'
 bspc rule -a jetbrains-goland desktop='editor'
 bspc rule -a jetbrains-pycharm desktop='editor'
 bspc rule -a jetbrains-rider desktop='editor'
-bspc rule -a jetbrains-toolbox desktop='editor' state=floating
+bspc rule -a Toolbox desktop='editor' state=floating
 
 bspc rule -a Slack desktop='slack'
 bspc rule -a Gimp desktop='media' state=floating follow=on 
@@ -38,8 +38,8 @@ bspc rule -a rofi state=floating follow=on
 # Startup
 #
 
-amixer set Master mute &
-amixer set Capture mute &
+# amixer set Master mute &
+# amixer set Capture mute &
 sh ~/.screenlayout/swk.sh &
 sh ~/.config/script/polybar.sh &
 compton -b --config .config/compton/compton.conf &
