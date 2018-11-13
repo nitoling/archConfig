@@ -2,12 +2,20 @@
 # Appearance
 #
 
-font pango:Myrica M 13
-gaps inner 10
+font pango:Myrica M 16
+gaps inner 5
 
 # Border
-default_border pixel 3
-default_floating_border pixel 3
+new_window none
+new_float none
+default_border none
+default_floating_border none
+
+# class                 border  backgr. text    indicator
+client.focused          #fdd835 #fdd835 #ffffff #2e9ef4
+client.focused_inactive #333333 #5f676a #ffffff #484e50
+client.unfocused        #333333 #222222 #888888 #292d2e
+client.urgent           #2f343a #900000 #ffffff #900000
 
 #
 # Workspace
@@ -18,31 +26,45 @@ set $ws1 1terminal
 set $ws2 2browser
 set $ws3 3editor
 set $ws4 4slack
+set $ws5 5webstorm
+set $ws6 6goland
+set $ws7 7android
+set $ws8 8windows
+set $ws9 9vlc
 
 # Window rule
 assign [class="Firefox"] $ws2
-assign [class="Sublime_text"] $ws3
+assign [class="jetbrains-webstorm"] $ws5
+assign [class="jetbrains-phpstorm"] $ws3
+assign [class="jetbrains-idea"] $ws3
+assign [class="jetbrains-goland"] $ws6
+assign [class="jetbrains-raider"] $ws3
+assign [class="jetbrains-pycharm"] $ws3
+assign [class="jetbrains-clion"] $ws3
+assign [class="jetbrains-studio"] $ws7
+for_window [class="jetbrains-toolbox"] floating enable
 assign [class="Slack"] $ws4
+assign [title="Windows"] $ws8
+assign [class="vlc"] $ws9
 
 
 #
 # Startup
 #
 
-exec --no-startup-id "sh ~/.screenlayout/swk.sh"
-exec --no-startup-id "sh ~/.config/script/feh.sh"
+exec --no-startup-id "bash ~/.screenlayout/swk.sh"
+exec --no-startup-id "bash ~/.config/script/feh.sh"
 exec --no-startup-id "amixer set Master mute"
-exec --no-startup-id "sh ~/.config/script/polybar.sh"
+exec --no-startup-id "bash ~/.config/script/polybar.sh"
 exec --no-startup-id "amixer set Capture mute "
 exec --no-startup-id "fcitx"
 exec --no-startup-id "/usr/lib/notification-daemon-1.0/notification-daemon"
 exec --no-startup-id "compton --config .config/compton/compton.conf"
 exec --no-startup-id "nm-applet"
-exec --no-startup-id "jetbrains-toolbox"
+exec --no-startup-id "libinput-gestures-setup start"
 
-exec --no-startup-id "sakura"
+exec --no-startup-id "xfce4-terminal"
 exec --no-startup-id "firefox"
-exec --no-startup-id "subl"
 exec --no-startup-id "slack"
 
 
@@ -54,41 +76,56 @@ set $mod Mod4
 floating_modifier $mod
 
 # Launch Terminal
-bindsym $mod+Return exec sakura
+bindsym $mod+Return exec xfce4-terminal
 bindsym $mod+r exec "rofi -show run"
 bindsym $mod+q kill
 
 # i3wm
 bindsym $mod+Shift+q exec "i3-msg exit"
-bindsym $mod+Shift+r exec sh ~/.config/script/i3restart.sh
+bindsym $mod+Shift+r exec sh ~/.config/script/restart.sh
 bindsym $mod+Shift+c reload
+bindsym $mod+L exec "i3lock"
 
-#Window Control
-bindsym $mod+Left focus left
-bindsym $mod+Down focus down
-bindsym $mod+Up focus up
-bindsym $mod+Right focus right
+# Container Control
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+w move container to workspace $ws5
+bindsym $mod+Shift+e move container to workspace $ws6
+bindsym $mod+Shift+a move container to workspace $ws7
+bindsym $mod+Shift+d move container to workspace $ws8
+bindsym $mod+Shift+m move container to workspace $ws9
+
+bindsym $mod+f floating enable; border normal
+bindsym $mod+Shift+f floating disable; border none
+bindsym $mod+space focus mode_toggle
+
+# Workspace Control
+bindsym $mod+Left workspace prev_on_output
+bindsym $mod+Right workspace next_on_output
+bindsym $mod+Up focus output up
+bindsym $mod+Down focus output down
+
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+w workspace $ws5
+bindsym $mod+e workspace $ws6
+bindsym $mod+a workspace $ws7
+bindsym $mod+d workspace $ws8
+bindsym $mod+m workspace $ws9
+bindsym $mod+Tab workspace back_and_forth
 
 bindsym $mod+Shift+Left move workspace to output left
 bindsym $mod+Shift+Down move workspace to output up
 bindsym $mod+Shift+Up move workspace to output down
 bindsym $mod+Shift+Right move workspace to output right
 
-#Workspace Control
-bindsym $mod+1 workspace $ws1
-bindsym $mod+2 workspace $ws2
-bindsym $mod+3 workspace $ws3
-bindsym $mod+4 workspace $ws4
-bindsym $mod+5 workspace 5
-bindsym $mod+6 workspace 6
-bindsym $mod+Tab workspace next
-
-bindsym $mod+Shift+1 move container to workspace $ws1
-bindsym $mod+Shift+2 move container to workspace $ws2
-bindsym $mod+Shift+3 move container to workspace $ws3
-bindsym $mod+Shift+4 move container to workspace $ws4
-bindsym $mod+Shift+5 move container to workspace 5
-bindsym $mod+Shift+6 move container to workspace 6
+# Container Rules
+bindsym $mod+v split horizontal
+bindsym $mod+h split vertical
 
 # PrintScreen
 bindcode 107 exec deepin-screenshot
@@ -97,4 +134,6 @@ bindcode 107 exec deepin-screenshot
 bindcode 121 exec amixer set Master toggle
 bindcode 123 exec amixer set Master 5%+
 bindcode 122 exec amixer set Master 5%-
+bindsym $mod+Prior exec amixer set Master 5%+
+bindsym $mod+Next exec amixer set Master 5%-
 bindcode 198 exec amixer set Capture toggle

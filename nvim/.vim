@@ -1,1 +1,1 @@
-/home/awataki/.vim/
+/home/nitoli/.vim

@@ -1,5 +1,5 @@
 super + Return
-	sakura
+	xfce4-terminal
 super + space
 	rofi -show
 super + r
